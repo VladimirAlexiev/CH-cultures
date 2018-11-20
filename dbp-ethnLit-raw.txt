@@ -1,0 +1,2665 @@
+" "@en
+"" To wage a war ""@en
+"& Aboriginal"@en
+"& Aboriginal"^^<http://www.w3.org/2001/XMLSchema#string>
+"''See [[#Ethnic groups"@en
+"''see [[#Demographics"@en
+"(2005 Estimates)"@en
+"(Arab or Kurd or Persian)"@en
+"(Figures for East Riding of Yorkshire UA:)"@en
+"(Figures for Shropshire UA:)"@en
+"* 83.8% Georgian * 6.5% Azerbaijani * 5.7% Armenian * 1.5% Russian * 2.5% others"@en
+"* French Canadian * Italian"@en
+"* Greek Cypriot * Turkish Cypriot"@en
+"* Han * Papora"@en
+"*Italian American *German American"@en
+"*Torres Strait Islander *Samoan *Tongan"@en
+", Bisaya people"@en
+", Visayan people"@en
+"-"@en
+"--08-16+02:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"--10-09"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"--10-09+01:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"--10-09+02:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"--12-09+01:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"--12-09+02:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+"-uninhabited-"@en
+"-uninhabited-"^^<http://www.w3.org/2001/XMLSchema#string>
+"."@en
+"< 1,000"@en
+"< 20"@en
+"= Berber: 68% Black: 1% Other: 27%"@en
+"?"@en
+"?"^^<http://www.w3.org/2001/XMLSchema#string>
+"???"@en
+"Abasuba"@en
+"Abbasi"@en
+"Abenaki, English, Slovak"@en
+"Abkhaz"@en
+"Aboriginal Australian – Arrernte and Kalkadoon"@en
+"Aboriginal Australian, Irish"@en
+"Aboriginal Cammeraygal clan"@en
+"Aboriginal"@en
+"Acadian, Irish and Migmaw"@en
+"Acadians"@en
+"Acadians, Germans"@en
+"Acipa"@en
+"Adan, Agotime"@en
+"Adi people"@en
+"Afar 1.7%"@en
+"Afghan"@en
+"Afghan, Indian, Scottish"@en
+"Afghan, Pashtun"@en
+"African 82.5%, Mulatto 11.9%, East Indian 2.4%, White 1.0%, Other or unspecified 3.1%"@en
+"African 85%, European 12%, Asian and Hispanic 3%"@en
+"African American mother"@en
+"African American"@en
+"African American"^^<http://www.w3.org/2001/XMLSchema#string>
+"African American, Hispanic, and White"@en
+"African American, Native American, Irish, Filipino, and German"@en
+"African American, White American, Native American"@en
+"African American, and Native American"@en
+"African American/Creek Indian"@en
+"African Caribbean"@en
+"African Caribbean"^^<http://www.w3.org/2001/XMLSchema#string>
+"African and African-white-Indian mixture 90%, white 5%, Indian Tamil or East Indian, Chinese less than 5%"@en
+"African and Lenape Indian"@en
+"African"@en
+"African, European, Native people."@en
+"African, Nigerian"@en
+"African, Scottish and Carib Indian"@en
+"African, Scottish and Carib"@en
+"African-American & Haitian-American"@en
+"African-American and Native American"@en
+"African-American"@en
+"African-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"African-American, Irish, Jewish and Meherrin Indian"@en
+"African-American, Jewish, Native American"@en
+"African-American, Russian Jewish, other European"@en
+"African-Canadian"@en
+"African-Jamaican, Chinese-Jamaican"@en
+"African/White"@en
+"African–American"@en
+"African–American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Afrikaner and English"@en
+"Afrikaner and Irish"@en
+"Afro-Asiatic"@en
+"Afro-Caribbean"@en
+"Afro-Caribbean, Caucausian, Chinese, Indian, Mixed"@en
+"Afro-Caribbean, Puerto Rican, Caucasian"@en
+"Afro-Jamaican, Chinese-Jamaican"@en
+"Against patidar"@en
+"Agbo"@en
+"Agni"@en
+"Ahwai"@en
+"Aimol, Langrong"@en
+"Aizi"@en
+"Akayon"@en
+"Alacaluf people"@en
+"Albanian Mother Teresa said "By blood, I am Albanian. By citizenship, an Indian.""@en
+"Albanian father; Austrian mother"@en
+"Albanian"@en
+"Albanian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Albanian-American"@en
+"AlbanianMother Teresa said "By blood, I am Albanian. By citizenship, an Indian.""@en
+"Albanians"@en
+"Albanians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Alfur, Nuaulu, Manusela. Though originally Melanesian"@en
+"Algerian and Morrocan"@en
+"Algerian"@en
+"Algerian"^^<http://www.w3.org/2001/XMLSchema#string>
+"All"@en
+"Almost completely African American"@en
+"Alokozay Pashtun"@en
+"Alorn"@en
+"Altai, Tubalar, etc."@en
+"Amazigh"@en
+"Ambonese"@en
+"American & Japanese"@en
+"American Dutch"@en
+"American Indian , Greek, Italian, Dutch"@en
+"American Indian, Caucasian"@en
+"American Indian, Caucasian, Spanish"@en
+"American Indian, Caucasian/Spanish"@en
+"American Indian/Caucasian"@en
+"American Native"@en
+"American White"@en
+"American and Japanese"@en
+"American mother"@en
+"American of Chinese descent"@en
+"American of Chinese descent"^^<http://www.w3.org/2001/XMLSchema#string>
+"American of Chinese/Taiwanese descent"@en
+"American of Filipino descent"@en
+"American of Indian descent"@en
+"American of Indian descent"^^<http://www.w3.org/2001/XMLSchema#string>
+"American of Irish descent"@en
+"American of Irish descent"^^<http://www.w3.org/2001/XMLSchema#string>
+"American"@en
+"American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Americann"@en
+"Amerindian and"@en
+"Amerindian and"^^<http://www.w3.org/2001/XMLSchema#string>
+"Amhara 26.9%"@en
+"Ancient Greek or maybe black African from Ethiopia"@en
+"Angkola"@en
+"Anglo-Afghan Indian"@en
+"Anglo-American"@en
+"Anglo-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Anglo-Burman and Burmese Indian"@en
+"Anglo-Celtic"@en
+"Anglo-Croatian"@en
+"Anglo-Irish"@en
+"Anglo-Irish, English"@en
+"Anglo-Irish, English"^^<http://www.w3.org/2001/XMLSchema#string>
+"Anglo-Italian"@en
+"Anglo-Jordanian"@en
+"Anglo-Jordanian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Anglo-Saxon"@en
+"Anglo-Saxon"^^<http://www.w3.org/2001/XMLSchema#string>
+"Anglo-Scandinavian"@en
+"Anglo-Scot"@en
+"Anglo-Scot"^^<http://www.w3.org/2001/XMLSchema#string>
+"Anglo-Scottish"@en
+"Anglosaxon"@en
+"Anishinabe-Dakota"@en
+"Anu, Khongso"@en
+"Anyar"@en
+"Anyima"@en
+"Aomie"@en
+"Aomie"^^<http://www.w3.org/2001/XMLSchema#string>
+"Arab , African"@en
+"Arab Palestinian, British,Belgian"@en
+"Arab and Nigerian"@en
+"Arab and Persian"@en
+"Arab of Hashemite descent"@en
+"Arab or Kurdish"@en
+"Arab or Persian"@en
+"Arab"@en
+"Arab"^^<http://www.w3.org/2001/XMLSchema#string>
+"Arab, Maori, Swahili, Madagascar"@en
+"Arab, Persian or Turkish"@en
+"Arab-American"@en
+"Arabic"@en
+"ArabsJews"@en
+"Aramean"@en
+"Aranama, Tamique"@en
+"Argentine"@en
+"Argentine"^^<http://www.w3.org/2001/XMLSchema#string>
+"Argentinean American"@en
+"Argentinean American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Argentines, Chileans, Croats, Selknams, Yaghans"@en
+"Armenian , Swedish"@en
+"Armenian and Canadian"@en
+"Armenian ethnic-religious minority"@en
+"Armenian"@en
+"Armenian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Armenian, Georgian and Ukrainian"@en
+"Armenians, Assyrians, Syriacs, Greeks, Jews, Franks, Germans and others"@en
+"Arvanites: 150,000"@en
+"Ashkenazi Jew"@en
+"Ashkenazi Jewish"@en
+"Ashkenazi Jewsish"@en
+"Ashkenazic Jewish"@en
+"Asian 10.2%"@en
+"Asian American"@en
+"Asian English"@en
+"Asian Indian and White English"@en
+"Asian and German"@en
+"Asian"@en
+"Asian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Asian, Chinese"@en
+"Asian/Latin"@en
+"Asianntitry"@en
+"Asmat people etc."@en
+"Asmat people etc."^^<http://www.w3.org/2001/XMLSchema#string>
+"Assamese"@en
+"Assyrian"@en
+"Assyrian/Syriac"@en
+"Ati, Aklanon, Hiligaynon, and Karay-a"@en
+"Ati, Aklanon, and Hiligaynon"@en
+"Ati, Visayan , Suludnon"@en
+"Ati, and Aklanon"@en
+"Australian /Japanese"@en
+"Australian and Georgian"@en
+"Australian"@en
+"Australian, American"@en
+"Australian, British, Danish"@en
+"Australian/Swedish"@en
+"Australian/Swedish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Austrian Germans"@en
+"Austrian and Jewish"@en
+"Austrian"@en
+"Austrian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Austrian&ndash;Jewish"@en
+"Austrian-American"@en
+"Austrian-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Avar"@en
+"Avar"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ayigha"@en
+"Aymara"@en
+"Aymara"^^<http://www.w3.org/2001/XMLSchema#string>
+"Azerbaijani"@en
+"Azeri"@en
+"Azorean Portuguese"@en
+"Aztec Indian"@en
+"Babole"@en
+"Bafanji"@en
+"Baggara"@en
+"Bahraini 62.4%, non-Bahraini 37.6"@en
+"Bajibaro"@en
+"Balahi, Gowli castes"@en
+"Balinese"@en
+"Balinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Baloch"@en
+"Baloch"^^<http://www.w3.org/2001/XMLSchema#string>
+"Balti"@en
+"Baluba-Kasai"@en
+"Balumbu, Babongo Pygmies"@en
+"Bamar and Burmese Chinese"@en
+"Bamar and Burmese Chinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bamar"@en
+"Bamar"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bamiléké"@en
+"Banabans 95%, Native Fijians 4%, Other 1%"@en
+"Bandumu"@en
+"Bangladeshi German"@en
+"Bangladeshi"@en
+"Baniya/ [Marwari]"@en
+"Banjabi, Babongo Pygmies"@en
+"Banyarwanda"@en
+"Baphuthi"@en
+"Bapunu, Babongo Pygmies"@en
+"Barasana, Eduria"@en
+"Baruya etc."@en
+"Bashqo'rt"@en
+"Basotho"@en
+"Basque"@en
+"Basque"^^<http://www.w3.org/2001/XMLSchema#string>
+"Batak Karo"@en
+"Batak Karo"^^<http://www.w3.org/2001/XMLSchema#string>
+"Batak Simalungun"@en
+"Batin etc."@en
+"Bauchi"@en
+"Bavarian"@en
+"Bavarian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bavarian-American"@en
+"Ba’ban"@en
+"Bedouin Arabs"@en
+"Bedouins"@en
+"Beja"@en
+"Belarusian, Lithuanian, Polish and Ukrainian"@en
+"Belarusians"@en
+"Belarussian"@en
+"Belgian"@en
+"Belgium"@en
+"Belgium"^^<http://www.w3.org/2001/XMLSchema#string>
+"Belonged to an ‘outcaste’ community of tanners , subscribed to Sikhism, converted to Islam later under the name Muhammad Bushra"@en
+"Bengali Christian"@en
+"Bengali Hindu"@en
+"Bengali people"@en
+"Bengali"@en
+"Bengali"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bengali, Bangladeshi"@en
+"Bengali, Japanese, Russian"@en
+"Bengali-British"@en
+"Bengali-English"@en
+"Berber"@en
+"Berber, Arabs and Black African"@en
+"Berber, Arabs, Jews and black African"@en
+"Berber-Arab"@en
+"Berber-Arab"^^<http://www.w3.org/2001/XMLSchema#string>
+"Betawi, Bugis, Banten, Madura"@en
+"Bi-racial"@en
+"Bicol"@en
+"Bihari"@en
+"Bihari"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bijobe"@en
+"Biracial"@en
+"Bira–Kumu"@en
+"Bira–Kumu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bishnupriya Manipuri"@en
+"Black / African-American"@en
+"Black / Mulatto 66%, White 9%, from Tamil Nadu and other parts of India 14%, Lebanese / Syrians 6%, Chinese / others 5%"@en
+"Black / Mulatto 76%, White 4%, from Tamil Nadu and other parts of India 18%, Lebanese / Syrians 1%, Chinese / others 1%"@en
+"Black 2.8%"@en
+"Black 66%, East Indian 6%, Carib people 2%, Mixed Race 19%, White 4%, Other 3%."@en
+"Black 90%, Mulatto, 8 % Carib-Amerindian 2%"@en
+"Black African and Portuguese"@en
+"Black American"@en
+"Black Caribbean"@en
+"Black"@en
+"Black"^^<http://www.w3.org/2001/XMLSchema#string>
+"Black, African-American"@en
+"Black, Chinese, Scottish, and Venezuelan"@en
+"Black, White and Asian"@en
+"Black, White, Asian, Middle Eastern"@en
+"Black, White, Asian, Middle Eastern, Hispanic"@en
+"Black-British"@en
+"Blacks 82% Mulatto 12% South Asians 3% and whites 2.9%, trace Arawak/Carib Amerindian"@en
+"Blacks 85%, Whites 12%, Asian 3%"@en
+"Blacks 85%, Whites 12%, Asian and Hispanic 3%"@en
+"Blefuscudians"@en
+"Blefuscudians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bordurian people"@en
+"Bordurian"@en
+"Bordurian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bosniak, Bosnian Serbs and Bosnian Croats"@en
+"Brahmin"@en
+"Brazilian afro-descendant"@en
+"Brazilian"@en
+"Brazilian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Brazilian, Italian"@en
+"Brazilian-Japanese"@en
+"Brazilian/Azorean"@en
+"Breton"@en
+"Breton, French"@en
+"Breton/French"@en
+"British African-Caribbean"@en
+"British Afro-American"@en
+"British Afro-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"British American"@en
+"British Asian"@en
+"British French"@en
+"British Indian of Kashmiri Pandit origin"@en
+"British Indian/Russian Jewish"@en
+"British Indian/Russian Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"British Pakistani"@en
+"British Polynesian Chilean Mixed"@en
+"British"@en
+"British"^^<http://www.w3.org/2001/XMLSchema#string>
+"British, East Indian"@en
+"British, Scottish descent"@en
+"Britons"@en
+"Brobdingnagians"@en
+"Brobdingnagians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bruny tribe of Tasmanians"@en
+"Bugis"@en
+"Bugis, others"@en
+"Bugis, others"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bugun"@en
+"Bukhara-ian"@en
+"Bulgarian and Armenian"@en
+"Bulgarian"@en
+"Bulgarian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Bulgarian, partially Cuman"@en
+"Bulgarian-Brazilian"@en
+"Bunu"@en
+"Buny tribe of Tasmanians"@en
+"Burman"@en
+"Burmese Chinese and Shan"@en
+"Burmese Chinese and Shan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Burmese mother"@en
+"Burmese"@en
+"Buryat"@en
+"Bwa, Tara"@en
+"Calormenes"@en
+"Cambeba et al."@en
+"Cambodian"@en
+"Canadian - Japanese"@en
+"Canadian"@en
+"Canadian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Caracoles, Garifuna, Expatriates"@en
+"Catalan"@en
+"Catalan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Caucacian"@en
+"Caucahue descendants, Mapuche people, Veliche people"@en
+"Caucasian & Japanese"@en
+"Caucasian - U.S."@en
+"Caucasian - U.S."^^<http://www.w3.org/2001/XMLSchema#string>
+"Caucasian / African American"@en
+"Caucasian 71%, Asian/Pacific Islander 12%, African American 6%, Hispanic 6%, Native American <1%, Multi-Racial 5%"@en
+"Caucasian American"@en
+"Caucasian and Filipino"@en
+"Caucasian and Native American mix"@en
+"Caucasian and Native American"@en
+"Caucasian"@en
+"Caucasian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Caucasian, Japanese"@en
+"Caucasian, Jewish"@en
+"Caucasian, Latin American"@en
+"Caucasian, Latin American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Caucasian, Latin"@en
+"Caucasian, Middle Eastern"@en
+"Caucasian/Black/Dominican American"@en
+"Caucasian/Cherokee"@en
+"Caucasian/Italian-American"@en
+"Caucasian/Latin"@en
+"Caucasian/Native American"@en
+"Caucasian/Native American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Caucasican"@en
+"Caucasion"@en
+"Caucasion"^^<http://www.w3.org/2001/XMLSchema#string>
+"Central Thai and Thai Chinese as monolingual"@en
+"Central Thai and Thai Chinese"@en
+"Ceylonese"@en
+"Chacobo , possibly 50 Pacahuara"@en
+"Chamba people, others"@en
+"Chechen"@en
+"Cherokee, Irish, German"@en
+"Cherokee/Irish"@en
+"Cherokee/Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Chicana"@en
+"Chicano"@en
+"Chicano"^^<http://www.w3.org/2001/XMLSchema#string>
+"Chileans, Argentines, Croats, Selknams, Yaghans"@en
+"Chileans, German-Chileans"@en
+"Chileans, Mapuches"@en
+"China Ghana"@en
+"China"@en
+"Chinese / Ghanaian"@en
+"Chinese American"@en
+"Chinese Filipino"@en
+"Chinese Filipino"^^<http://www.w3.org/2001/XMLSchema#string>
+"Chinese Indonesian with Bantenese descent."@en
+"Chinese Indonesian"@en
+"Chinese Indonesian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Chinese Russian"@en
+"Chinese and Korean"@en
+"Chinese and Shan"@en
+"Chinese and Vietnamese"@en
+"Chinese"@en
+"Chinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Chinese,Vietnamese"@en
+"Chinese-American"@en
+"Chinese-British-American"@en
+"Chinese. In Spanish: "Chino Alcahuete""@en
+"Chinese/American"@en
+"Chinese/Irish/Latvian"@en
+"Chinese/Japanese"@en
+"Chinese/Thai/Indian"@en
+"Chino Alcahuete."@en
+"Chino."@en
+"Chippewa"@en
+"Christian - Desikar"@en
+"Christian - Desikar"^^<http://www.w3.org/2001/XMLSchema#string>
+"Christian"@en
+"Christianity"@en
+"Cimbrian"@en
+"Circassian or Pontic Greek"@en
+"Circassian"@en
+"Circassian, Turkish"@en
+"Circassian, Turkish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Circassian-Kabardian"@en
+"Cockcasian"@en
+"Colombian"@en
+"Colombian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Colombian-Cuban"@en
+"Cornish"@en
+"Costa Rican"@en
+"Cree"@en
+"Creole"@en
+"Creole"^^<http://www.w3.org/2001/XMLSchema#string>
+"Creoles, French, African, Tamil, other Indians, Malagasy, Chinese and Vietnamese"@en
+"Creoles, French, African, Tamil, other Indians, Malagasy, Chinese and Vietnamese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Crimean Tatar and Nogai"@en
+"Croat"@en
+"Croat"^^<http://www.w3.org/2001/XMLSchema#string>
+"Croatian Muslim"@en
+"Croatian"@en
+"Croatian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Croats 96.82%"@en
+"Croats 99.9% Other 1%"@en
+"Croats, a few Slovenes"@en
+"Cuban - American"@en
+"Cuban American"@en
+"Cuban American, Puerto Rican American"@en
+"Cuban father; German, Norwegian, Irish mother"@en
+"Cuban"@en
+"Cuban"^^<http://www.w3.org/2001/XMLSchema#string>
+"Cuban, Chinese, Irish & English"@en
+"Cuban, German"@en
+"Cuban-American"@en
+"Cuban-Spanish American"@en
+"Cuban-Spanish American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Cuban/Spanish"@en
+"Czech American"@en
+"Czech and Yugoslav"@en
+"Czech mother"@en
+"Czech"@en
+"Czech, Italian, Polish"@en
+"Czech-German"@en
+"Czech/Italian"@en
+"Czech/Italian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Czechoslovakian, French, and Seminole Indian"@en
+"Dagaura"@en
+"Dalmatian Slavic"@en
+"Dani, Lani, Yali, etc"@en
+"Danish"@en
+"Danish-American"@en
+"Danish-Norwegian"@en
+"Dargins"@en
+"Daza people/Gouran people"@en
+"Deaf populations"@en
+"Delhite"@en
+"Demon"@en
+"Demons"@en
+"Demons"^^<http://www.w3.org/2001/XMLSchema#string>
+"Deputy"@en
+"Deputy"^^<http://www.w3.org/2001/XMLSchema#string>
+"Dhurga"@en
+"Diné/Navajo"@en
+"Diné/Navajo"^^<http://www.w3.org/2001/XMLSchema#string>
+"Disputed"@en
+"Diverse"@en
+"Dog"@en
+"Dominican and Puerto Rican"@en
+"Dominican and Puerto Rican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Dravidian"@en
+"Dutch & Italian"@en
+"Dutch / Belgian father"@en
+"Dutch Antillies and Dutch"@en
+"Dutch Jewish"@en
+"Dutch and Norwegian"@en
+"Dutch"@en
+"Dutch, English, and Scottish"@en
+"Dutch-American"@en
+"Dutch-Indonesian/Pacific Islander"@en
+"Dutch/English"@en
+"DutchSephardic Jewish"@en
+"Dyirringany"@en
+"East-African of Indian ethnicity"@en
+"Ecuadorian, Mexican"@en
+"Ecuadorians"@en
+"Ecuadorians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Edo Bini and Delta Ika"@en
+"Egyptian father"@en
+"Egyptian"@en
+"Egyptians"@en
+"Emirati, but without UAE nationality"@en
+"English , Swedish"@en
+"English American"@en
+"English and Norman-French descent. Portuguese and Polish minorities"@en
+"English father"@en
+"English mother"@en
+"English of Irish descent"@en
+"English – Romanian"@en
+"English"@en
+"English"^^<http://www.w3.org/2001/XMLSchema#string>
+"English, 1/16th French"@en
+"English, German, and Filipino"@en
+"English, Indian"@en
+"English, Irish and Osage ancestry"@en
+"English, Irish"@en
+"English, Irish, French, and Scottish"@en
+"English, Irish, and Luo"@en
+"English, Northern Irish"@en
+"English-, Scottish-, Welsh-, Mexican- and German-American"@en
+"English-, Scottish-, Welsh-, and German-American"@en
+"English-American"@en
+"English-Italian"@en
+"English-Jewish"@en
+"English-Prussian"@en
+"English/Filipina"@en
+"English/German"@en
+"English/Hungarian, half Indian"@en
+"English/Indian"@en
+"English/Irish/German"@en
+"English/Irish/German"^^<http://www.w3.org/2001/XMLSchema#string>
+"English/Mauritian"@en
+"English–Romanian"@en
+"Enrolled member of the A'aninin tribe"@en
+"Eritrean"@en
+"Ethiopian"@en
+"Ethiopian, Bangladeshi"@en
+"Ethnic groups:"@en
+"Ethnically Ambiguous"@en
+"Eurasian"@en
+"Euro-American"@en
+"Euro-american"@en
+"European American"@en
+"European American"^^<http://www.w3.org/2001/XMLSchema#string>
+"European AmericanIndian American"@en
+"European Australians"@en
+"European and Native American"@en
+"European"@en
+"European"^^<http://www.w3.org/2001/XMLSchema#string>
+"European, Moravian Vlach"@en
+"European, Taíno and Afro-Caribbean"@en
+"European, Taíno and Afro-Caribbean"^^<http://www.w3.org/2001/XMLSchema#string>
+"European/White"@en
+"Evenki or Daur, later Russian"@en
+"Evenki or Daur, later Russian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Evians, Wheelers, Big Wigs, Blacks"@en
+"Ewe, Kabye, Tem, Gourma 1% othersc"@en
+"Expatriate Origins: 5.1% United States, 5% France"@en
+"Father of Ukrainian descent"@en
+"Fenwickians"@en
+"Fenwickians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Filipina"@en
+"Filipina"^^<http://www.w3.org/2001/XMLSchema#string>
+"Filipina, Spanish, Chinese"@en
+"Filipina, Spanish, Chinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Filipino & Chinese"@en
+"Filipino American"@en
+"Filipino Arabian"@en
+"Filipino British"@en
+"Filipino Chinese"@en
+"Filipino Moroccan"@en
+"Filipino Spanish"@en
+"Filipino [Napoleon]"@en
+"Filipino and Chinese"@en
+"Filipino"@en
+"Filipino, Castillan Spanish & Scottish"@en
+"Filipino, English"@en
+"Filipino, Irish, American Indian"@en
+"Filipino, Irish, American Indian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Filipino, Korean, Vietnamese, Thai, Hispanic, African American"@en
+"Filipino, South African - American"@en
+"Filipino, Spaniard, Chinese"@en
+"Filipino-American"@en
+"Filipino-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Filipino-Chinese"@en
+"Filipino-Chinese, Canadian"@en
+"Filipino-Chinese-Spanish"@en
+"Filipino-Indian mix"@en
+"Filipino-Italian American"@en
+"Filipino-Spanish"@en
+"Filipino/Irish"@en
+"Finnish Valeymilovskiy"@en
+"Finnish and Swedish mother"@en
+"Finnish"@en
+"Finnish"^^<http://www.w3.org/2001/XMLSchema#string>
+"First Nations"@en
+"Fishermen"@en
+"Flemish"@en
+"Flemish, French"@en
+"Fox, Sauk, and Kickapoo"@en
+"France"@en
+"French Canadian father"@en
+"French Canadian, Caucasian"@en
+"French Canadian, Italian"@en
+"French Corsican"@en
+"French Jewish"@en
+"French Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"French Polynesian"@en
+"French Russian"@en
+"French and Greek"@en
+"French and Irish father"@en
+"French by male line"@en
+"French descent"@en
+"French mother"@en
+"French or Circassian"@en
+"French"@en
+"French"^^<http://www.w3.org/2001/XMLSchema#string>
+"French, Caucasian"@en
+"French, English"@en
+"French, Italian"@en
+"French, Italian"^^<http://www.w3.org/2001/XMLSchema#string>
+"French, Italian, Germans"@en
+"French, Lombards of Sicily"@en
+"French, Native American"@en
+"French, Savoyard"@en
+"French, Spanish, Italian , Luxembourger"@en
+"French-Canadian and Libyan"@en
+"French-Canadian"@en
+"French-Canadian-Shawnee"@en
+"French-Canadian-Shawnee"^^<http://www.w3.org/2001/XMLSchema#string>
+"French-CanadianKorean"@en
+"French/German"@en
+"French/German"^^<http://www.w3.org/2001/XMLSchema#string>
+"Fula"@en
+"Fulfulde"@en
+"Fuzhounese"@en
+"GallicBrownie"@en
+"Gens de couleur libre"@en
+"Georgian Orthodox"@en
+"Georgian Orthodox"^^<http://www.w3.org/2001/XMLSchema#string>
+"Georgian or French"@en
+"Georgian or Russian Jew"@en
+"Georgian or Russian"@en
+"Georgian or Russian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Georgian"@en
+"Georgian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Georgian, Ukrainian"@en
+"Gepid"@en
+"German , Norwegian and Swedish"@en
+"German American"@en
+"German American/German-English"@en
+"German Filipino"@en
+"German Jewish father"@en
+"German Jewish"@en
+"German Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"German Palatine"@en
+"German Palatine"^^<http://www.w3.org/2001/XMLSchema#string>
+"German and English mother"@en
+"German and Irish father"@en
+"German and Korean"@en
+"German and Spaniard"@en
+"German and Syrian"@en
+"German father"@en
+"German mother"@en
+"German mother; Jewish father"@en
+"German mother; Turkish father"@en
+"German mother; Turkish father"^^<http://www.w3.org/2001/XMLSchema#string>
+"German of Huguenot descent"@en
+"German"@en
+"German"^^<http://www.w3.org/2001/XMLSchema#string>
+"German, Afro-Caribbean"@en
+"German, Dutch"@en
+"German, Dutch, English"@en
+"German, Dutch, English, Swiss"@en
+"German, English"@en
+"German, English, Austrian, and Peruvian"@en
+"German, English, Irish"@en
+"German, English, and Irish"@en
+"German, French, English"@en
+"German, Hispanic"@en
+"German, Irish, French-Canadian and other."@en
+"German, Irish, French-Canadian"@en
+"German, Irish, Portuguese, Chinese, Hawaiian"@en
+"German, Peruvian"@en
+"German, Scottish, Irish"@en
+"German, Swiss, Jewish"@en
+"German-American"@en
+"German-Canadian"@en
+"German-Japanese"@en
+"German-Jewish"@en
+"German-Lebanese"@en
+"German-Polish-Lithuanian-Tatar"@en
+"German-Polish-Lithuanian-Tatar"^^<http://www.w3.org/2001/XMLSchema#string>
+"German-Russian"@en
+"German/Kashubian"@en
+"German/Mexican American"@en
+"German/Scottish/Cherokee/n"@en
+"German/Spanish"@en
+"German/Spanish"^^<http://www.w3.org/2001/XMLSchema#string>
+"GermanJewish"@en
+"Germans , British, Portuguese, Bulgarian and Belgian"@en
+"Germans , Catalan-Castilian, Portuguese"@en
+"Germans , Spanish"@en
+"Ghanaian Guyanese"@en
+"Ghanaian Nigerian"@en
+"Ghanaian"@en
+"Ghanaian-Fulani"@en
+"Gibraltariana other British Maghrebian Indian"@en
+"Gibraltariana other British Maghrebis Indian"@en
+"Glubbdubdribians"@en
+"Goan"@en
+"Goan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Gomantak Maratha Samaj"@en
+"Gomantak Maratha Samaj"^^<http://www.w3.org/2001/XMLSchema#string>
+"Gonja"@en
+"Gotlanders, Swedes"@en
+"Greek Cypriot"@en
+"Greek and Native American"@en
+"Greek and Turkish"@en
+"Greek father"@en
+"Greek or Turkish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Greek"@en
+"Greek"^^<http://www.w3.org/2001/XMLSchema#string>
+"Greek, Maniots, Greek Cypriots, Cretan Greeks, Pontic Greeks & Greek Macedonians, Greek Epirotes & Thracian Greeks"@en
+"Greek-American"@en
+"Greek-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Greek-Cypriot"@en
+"Greek/Caucasian/Irish"@en
+"Greeks 77%, Turkish 18%"@en
+"Greeks, Maniots, Greek Cypriots, Cretan Greeks, Pontic Greeks, Greek Macedonians, Greek Epirotes, Thracian Greeks"@en
+"Greenlandic Inuit"@en
+"Grenadian descent"@en
+"Grolandais"@en
+"Grolandais"^^<http://www.w3.org/2001/XMLSchema#string>
+"Guambiano"@en
+"Gujarati"@en
+"Gungawa, Yaurawa"@en
+"Gurage 2.5%"@en
+"Gurkha and Khas people"@en
+"Gurunsi"@en
+"Gwich'in Athabascan Indian"@en
+"Gypsy"@en
+"Güenoa, Minuán and Charrúa"@en
+"HadimuTumbatu"@en
+"Hadiya 1.7%"@en
+"Haitian and Irish"@en
+"Haitian"@en
+"Hakka Chinese Jamaican, Italian-American"@en
+"Hakka Chinese Jamaicans, Italian-American"@en
+"Hakka Chinese"@en
+"Hakka"@en
+"Half Chinese and Half Irish"@en
+"Half Hungarian, half Swiss"@en
+"Half Indonesian, half Vietnamese"@en
+"Half Italian, Half Chinese"@en
+"Half-Gujarati, Quarter-Bengali, & Quarter-Belgian"@en
+"Han Chinese"@en
+"Han Chinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Han"@en
+"Han"^^<http://www.w3.org/2001/XMLSchema#string>
+"Harijan of Kinnaur district"@en
+"Havasupai"@en
+"Havu"@en
+"Havu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hawaiian and American"@en
+"Hawaiian and American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hawaiian"@en
+"Hawaiian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hawaiian/Irish-American"@en
+"Hellenized German"@en
+"Hema-Gegere"@en
+"Hema-Gegere"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hindko-speaking Awan"@en
+"Hindko-speaking Pashtun"@en
+"Hindu"@en
+"Hindu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hinduism"@en
+"Hispanic American"@en
+"Hispanic American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hispanic"@en
+"Hispanic"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hispanic, Latino, Caucasian"@en
+"Hispanic, Latino, Caucasian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hispanic, mainly Mexican-American"@en
+"Hispanic, mainly Mexican-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hispanic-Latino"@en
+"Hispanic/Black"@en
+"Hispanic/Latino"@en
+"Hispanic/Mexican"@en
+"Hispanics, including Filipino Hispanics"@en
+"Ho"@en
+"Hoklo people. Koxinga's parent were Zheng Zhilong and Tagawa Matsu. So, Koxinga and the family also owned the Japanese descent."@en
+"Homo sapiens"@en
+"Honduran"@en
+"Honduran"^^<http://www.w3.org/2001/XMLSchema#string>
+"Human"@en
+"Humanity"@en
+"Hunanese Han chinese from Wugang"@en
+"Hungarian Jew"@en
+"Hungarian Jew,Canadian"@en
+"Hungarian Jewish father"@en
+"Hungarian with Luxembourgian,"@en
+"Hungarian with Luxembourgian,"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hungarian"@en
+"Hungarian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hungarian&ndash;Lithuanian Jewish"@en
+"Hungarian, Polish, Slovak"@en
+"Hungarian, Polish,"@en
+"Hungarian-American Jew"@en
+"Hungarian-Jewish"@en
+"Hupd'ëh, Yohup"@en
+"Huron or French"@en
+"Huron or French"^^<http://www.w3.org/2001/XMLSchema#string>
+"Hutu, Tutsi, and Twa"@en
+"I-Kiribati 100%"@en
+"I-Kiribati 98.8%"@en
+"I-Kiribati 98.9%"@en
+"I-Kiribati 99.3%"@en
+"I-Kiribati 99.6%"@en
+"I-Kiribati 99.7%"@en
+"I-Kiribati 99.9%"@en
+"Icelandic and Thai"@en
+"Idu Mishmi people"@en
+"Igalan, Iberogan"@en
+"Ikoma, Nata, Isenye"@en
+"Ilocano/Filipino"@en
+"Ilocano/Filipino"^^<http://www.w3.org/2001/XMLSchema#string>
+"IndiaHindu Rationalist"@en
+"Indian American"@en
+"Indian Gujarati"@en
+"Indian Singaporean"@en
+"Indian and Australian"@en
+"Indian descent"@en
+"Indian"@en
+"Indian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Indian, Asian"@en
+"Indian, Bengali"@en
+"Indian, Black, White, Asian, Middle Eastern, Hispanic"@en
+"Indian-American"@en
+"Indian-Australian"@en
+"Indian-Canadian"@en
+"Indian-Chinese"@en
+"Indian-Chinese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Indian/Lebanese"@en
+"Indian/Lebanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Indian/Slovene"@en
+"Indian–Australian"@en
+"Indigenous Australian - Marduntjara and Pitjantjatjara nations"@en
+"Indigenous Australian"@en
+"Indigenous Australian, Irish"@en
+"Indigenous Australian, Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Indo Aryan"@en
+"Indo Fijian"@en
+"Indo Fijian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Indo"@en
+"Indo-Mauritian 68%, Mauritian Creole people 27%, Sino-Mauritian 3%, Franco-Mauritian 2%"@en
+"Indonesian and Dutch"@en
+"Indonesian"@en
+"Indonesian/Dutch"@en
+"Inuit , non-Aboriginal , Indian , Métis"@en
+"Inupiat, caucasian"@en
+"Inupiat, caucasian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Iranian Gypsy"@en
+"Iranian Jewish"@en
+"Iranian"@en
+"Iranian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Iraqi Jewish"@en
+"Iraqi"@en
+"Iraqi"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ireland"@en
+"Ireland"^^<http://www.w3.org/2001/XMLSchema#string>
+"Irish American and Cherokee"@en
+"Irish American"@en
+"Irish Australian"@en
+"Irish German Swedish"@en
+"Irish and English"@en
+"Irish and English"^^<http://www.w3.org/2001/XMLSchema#string>
+"Irish and Italian"@en
+"Irish and Scottish"@en
+"Irish and Swiss Italian"@en
+"Irish and Welsh"@en
+"Irish father"@en
+"Irish mother"@en
+"Irish mother; Iraqi Jewish father"@en
+"Irish"@en
+"Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Irish, 1/4 German"@en
+"Irish, African-American, Jewish and Meherrin Indian"@en
+"Irish, British, German, Czech and French Canadian"@en
+"Irish, English, Dutch mother"@en
+"Irish, English, Welsh, and German"@en
+"Irish, German, Scottish and Cherokee Indian"@en
+"Irish, German, Scottish and Cherokee"@en
+"Irish, Norwegian, Italian"@en
+"Irish, Scottish, German, Czech and French Canadian"@en
+"Irish, West Indian"@en
+"Irish-American"@en
+"Irish-English"@en
+"Irish-German American"@en
+"Irish/ Ulster Scots"@en
+"Irish/German-American"@en
+"IrishLatina"@en
+"Iroquois"@en
+"Irya, Owe"@en
+"Isan people"@en
+"Isawaghan"@en
+"Island Tongva"@en
+"Islandians, Bants"@en
+"Israeli"@en
+"Israeli"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian , English, Northern Irish, German"@en
+"Italian American and African American"@en
+"Italian American"@en
+"Italian [Tabitha]"@en
+"Italian and Arbëreshë"@en
+"Italian and Cherokee"@en
+"Italian and Czech"@en
+"Italian and French"@en
+"Italian and Irish"@en
+"Italian and Portuguese descent"@en
+"Italian and Portuguese descent"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian and Sammarinese"@en
+"Italian and Spaniard"@en
+"Italian and Spaniard"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian father"@en
+"Italian mother"@en
+"Italian or Spanish"@en
+"Italian"@en
+"Italian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian, Apulian"@en
+"Italian, Cuban and Cherokee"@en
+"Italian, French, Swiss, Mi'kmaq"@en
+"Italian, German, Austrian"@en
+"Italian, Hawaiian"@en
+"Italian, Irish"@en
+"Italian, Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian, Slovenian"@en
+"Italian, Slovenian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian, Spanish, Chilean and French"@en
+"Italian, Venezuelan and Irish"@en
+"Italian-American"@en
+"Italian-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Italian-Australian"@en
+"Italian-Brazilian"@en
+"Italian-Spanish Nationality = American"@en
+"Italian/German/Spanish"@en
+"Italian/Irish"@en
+"Italian/Irish/Cherokee Indian"@en
+"Italian/Scottish"@en
+"Italians"@en
+"Italo-Albanian"@en
+"Ivatans"@en
+"Ixeys, Boxers"@en
+"Ixeys, Boxers"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jab"@en
+"Jadoon Pathan Muslim"@en
+"Jain"@en
+"Jamaican"@en
+"Jamaican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jamaican/Chinese"@en
+"Jamamadi, Banawá, Jarawara"@en
+"Jamamadi, Banawá, Jarawara"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jambi Malays, Batin etc."@en
+"Japanese American"@en
+"Japanese and Bulgarian"@en
+"Japanese and Filipino"@en
+"Japanese and Filipino"^^<http://www.w3.org/2001/XMLSchema#string>
+"Japanese and French Canadian"@en
+"Japanese and French-Canadian"@en
+"Japanese and German"@en
+"Japanese and German"^^<http://www.w3.org/2001/XMLSchema#string>
+"Japanese father"@en
+"Japanese"@en
+"Japanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Japanese, Austrian, Chinese, Filipino, Spanish"@en
+"Japanese, British"@en
+"Japanese, British"^^<http://www.w3.org/2001/XMLSchema#string>
+"Japanese, Chinese, Spanish, and Scots"@en
+"Japanese, Filipino"@en
+"Japanese, German, English"@en
+"Japanese-American"@en
+"Japanese-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Japanese/Filipino"@en
+"Japanese/Portuguese"@en
+"Japanesekorean"@en
+"Jat Sikh"@en
+"Javanese , Sundanese , Betawi, Madurese"@en
+"Javanese"@en
+"Javanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Javanese, Indonesian"@en
+"Jbalas, Ghomaras, Sanhajas de Srayr"@en
+"Jew"@en
+"Jew"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jewish , Italian ;"@en
+"Jewish American"@en
+"Jewish Americans and Italian Americans were official members; other ethnicities were known as "associates.""@en
+"Jewish Canadian"@en
+"Jewish Occidental European"@en
+"Jewish Russian"@en
+"Jewish Russian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jewish and Austrian mother"@en
+"Jewish and English father"@en
+"Jewish and Turkish"@en
+"Jewish descent"@en
+"Jewish father"@en
+"Jewish father; Russian mother"@en
+"Jewish father;"@en
+"Jewish half chicken turkey KFC man"@en
+"Jewish mother"@en
+"Jewish"@en
+"Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jewish- U.S. / Israel"@en
+"Jewish-Austrian"@en
+"Jewish-British"@en
+"Jewish/Irish/Australian"@en
+"Jewish/Irish/Australian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jewish/Semite"@en
+"Jordanian arabs"@en
+"Judaeo-converso Hispanic[[#1"@en
+"Judaeo-converso Hispanic[[#1"^^<http://www.w3.org/2001/XMLSchema#string>
+"Jumjum, Mabaan"@en
+"KHERWAL"@en
+"Kabardin"@en
+"Kachin"@en
+"Kalash"@en
+"Kalenjin people, some Dorobo"@en
+"Kalenjin people, some Dorobo"^^<http://www.w3.org/2001/XMLSchema#string>
+"Kambari, most Cipu"@en
+"Kanaks 96.9%, Europeans 2.6%, Polynesians 0.1%, Other 0.4%"@en
+"Kango"@en
+"Kanuri , Kanembu"@en
+"Kanuri"@en
+"Karajá people"@en
+"Karanga, Bakha , Kashmere, Koniere"@en
+"Karbi"@en
+"Kashmiri Gaud Saraswat Brahmin"@en
+"Kashmiri Gaud Saraswat Brahmin"^^<http://www.w3.org/2001/XMLSchema#string>
+"Kashmiri Pandit origin"@en
+"Kashmiri Pandit"@en
+"Kashmiri Pandit"^^<http://www.w3.org/2001/XMLSchema#string>
+"Kashmiri"@en
+"Kashmiri, English"@en
+"Kashmiri-Punjabi-Mughal"@en
+"Kedahan Malays"@en
+"Keraliate"@en
+"Keralite"@en
+"Khalkh"@en
+"Khamyang people"@en
+"Khan"@en
+"Khas"@en
+"Khas, Gurkhas"@en
+"Khas, Gurkhas(Nepalese)"@en
+"Khatana Gujjar"@en
+"Khmer"@en
+"Khoklem, Klemsuh"@en
+"Khonds, Dal, Sitha Kandha"@en
+"Kikuyu"@en
+"Kikuyu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Kinh/Gin people"@en
+"Kintoori Musavi Sayyid"@en
+"Kiranti: Sunwar, Limbu, Rai, etc."@en
+"Kirat, Limbu, Rai, etc."@en
+"Koch Rajbonshi"@en
+"Koita"@en
+"Koma"@en
+"Konda-Dora"@en
+"Kore"@en
+"Korean American"@en
+"Korean and African-American"@en
+"Korean"@en
+"Korean"^^<http://www.w3.org/2001/XMLSchema#string>
+"Korean, Vietnamese"@en
+"Korean-American"@en
+"Korean/American"@en
+"Korean/European"@en
+"Koreans"@en
+"Koreans, Chinese, Japanese, multicultural"@en
+"Koryaks"@en
+"Koyangk'auwi Maidu"@en
+"Koyangk'auwi Maidu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Kpeera"@en
+"Kshatriya"@en
+"Kuki = Chin, Mizo, Naga, Karbi, Mro"@en
+"Kuki"@en
+"Kumyk"@en
+"Kunbis of Goa"@en
+"Kurbet"@en
+"Kurdish"@en
+"Kurds And Turks"@en
+"Kurds, Turkmen, Arabs and Assyrians"@en
+"Kurds, Turkmen, Armenians and Assyrians"@en
+"Kurds, Turkmen, and Assyrians"@en
+"Kurds, Turkmen,Armenian and Assyrians"@en
+"Kurds, Turkmen,Armenians and Assyrians"@en
+"Kurds,Turkmen,Arabs And Assyrians"@en
+"Kurds,Turks,Arab And Assyrians"@en
+"Kutchi Leva Patel"@en
+"Kyrgyz"@en
+"Kyrgyz"^^<http://www.w3.org/2001/XMLSchema#string>
+"Labana"@en
+"Lakota"@en
+"Lamalama"@en
+"Lamalama"^^<http://www.w3.org/2001/XMLSchema#string>
+"Latin American and Lebanese"@en
+"Latin"@en
+"Latin"^^<http://www.w3.org/2001/XMLSchema#string>
+"Latina"@en
+"Latina"^^<http://www.w3.org/2001/XMLSchema#string>
+"Latina/Sicilian/Lebanese Jewish"@en
+"Latino"@en
+"Latino"^^<http://www.w3.org/2001/XMLSchema#string>
+"Latino, Cuban"@en
+"Latino/Hispanic"@en
+"Latvia"@en
+"Latvian"@en
+"Lebanese / Irish"@en
+"Lebanese American"@en
+"Lebanese Arab"@en
+"Lebanese and English"@en
+"Lebanese and Ghanaian"@en
+"Lebanese and Syrian origins"@en
+"Lebanese and Syrian origins"^^<http://www.w3.org/2001/XMLSchema#string>
+"Lebanese mother"@en
+"Lebanese mother;"@en
+"Lebanese"@en
+"Lebanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Lebanese, Liberian, African-American"@en
+"Lebanese-American -"@en
+"Lebanese-American -"^^<http://www.w3.org/2001/XMLSchema#string>
+"Lebanese-American"@en
+"Lebronian"@en
+"Lemba"@en
+"Lezgin"@en
+"Lilliputians"@en
+"Lilliputians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Lithuanian Jewish"@en
+"Lithuanian"@en
+"Lithuanian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Lithuanian-American"@en
+"Lohorung"@en
+"Lokono"@en
+"Luggnaggians"@en
+"Luggnaggians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Luso-Ibero-Italiani"@en
+"Luxembourgish"@en
+"Luxembourgish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Macedonian Turk"@en
+"Macedonian ]]"@en
+"Macedonian"@en
+"Macedonians 99.4%"@en
+"Macedonians 99.4%"^^<http://www.w3.org/2001/XMLSchema#string>
+"Machiguenga"@en
+"Made men are Italian, Italian-American, Sicilian or Sicilian-American. Other ethnicities are employed as "associates.""@en
+"Made men are men of Italian descent. Other ethnicities are employed as "associates.""@en
+"Madhva Deshastha Brahmins"@en
+"Madiya"@en
+"Maharashtrian"@en
+"Mahl"@en
+"Mahoran"@en
+"Mainland Indians"@en
+"Mainly Native Fijians and Fiji Indians"@en
+"Maithali ), Tharu ), Nepali Muslims others"@en
+"Maithali"@en
+"Maiwa, Massenrempulu"@en
+"Majority Chinese and Vietnamese, Minority Thai, Korean, British, and American"@en
+"Majority Roma people, Romanians and some Aromanians"@en
+"Majority Romanians, Aromanians and some Roma people"@en
+"Majority White"@en
+"Malay Indonesians and Chinese, mostly Hakkas"@en
+"Malay Singaporean"@en
+"Malay"@en
+"Malay"^^<http://www.w3.org/2001/XMLSchema#string>
+"Malay, Chinese"@en
+"Malay, Chinese, Etc"@en
+"Malay, Chinese, Javanese, Batak"@en
+"Malay, Chinese, Javanese, Batak"^^<http://www.w3.org/2001/XMLSchema#string>
+"Malay, Chinese, Javaness, Batak, Etc"@en
+"Malay, Chinese, Javaness, Batak, Etc"^^<http://www.w3.org/2001/XMLSchema#string>
+"Malayalam"@en
+"Malayali"@en
+"Malayo-Indonesian , Côtiers , French, Desi, Creole, Comorian, Chinese"@en
+"Malayo-Indonesian , Côtiers , French, Indian, Creole, Comorian, Chinese"@en
+"Malaysian ChineseHakka"@en
+"Malaysian Indian and Irish"@en
+"Malaysian Indian and Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Malaysian Malay"@en
+"Malaysian Malay"^^<http://www.w3.org/2001/XMLSchema#string>
+"Malaysian, Chinese no religion"@en
+"Manchu"@en
+"Manchu"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mandé"@en
+"Mangalorean"@en
+"Mangbele"@en
+"Mangue, Chorotega, Monimbo"@en
+"Mangue, Chorotega, Monimbo"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mani people etc."@en
+"Manzhang Dai"@en
+"Maori"@en
+"Mapuche"@en
+"Maratha"@en
+"Marathi"@en
+"Maring, such as the Tsembaga Maring"@en
+"Maronite community of Cyprus"@en
+"Mbimu"@en
+"Melanesian 100%"@en
+"Melanesian 44.6%, European 34.5%, Wallisian 9.1%, Tahitian 2.7%, Indonesian 2.6%, Vietnamese 1.4%, Ni-Vanuatu 1.2%, other 3.9%"@en
+"Melanesian 93%, Polynesian 4%, Micronesian 1.5%, European 0.8%, Chinese 0.3%, other 0.4%"@en
+"Melanesians"@en
+"Melanesians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Melnibonéans"@en
+"Melnibonéans"^^<http://www.w3.org/2001/XMLSchema#string>
+"Melting Pot but has a mythical Berber heritage"@en
+"Men of Italian descent, and other ethnicities as "associates""@en
+"Mende"@en
+"Mengisa"@en
+"Menominee Indian Tribe"@en
+"Mentawai. 10% of the population are from other parts of Indonesia."@en
+"Mescalero Apache"@en
+"Mescalero Apache"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mestico, angolares , forros , servicais , tongas , Europeans"@en
+"Mestico, angolares , forros , servicais , tongas , Europeans"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mestizo or Indian"@en
+"Mestizo"@en
+"Mexican American"@en
+"Mexican and Mexican American"@en
+"Mexican and Mexican American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexican and Salvadoran"@en
+"Mexican and Salvadoran"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexican politician"@en
+"Mexican politician"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexican"@en
+"Mexican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexican-American and White"@en
+"Mexican-American"@en
+"Mexican-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexicans and Mexican American"@en
+"Mexicans and Mexican-Americans"@en
+"Mexicans and Mexican-Americans"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexicans"@en
+"Mexicans"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mexico"@en
+"Mfumte"@en
+"Mi'kmak"@en
+"Mi'kmaq, English"@en
+"Micronesian"@en
+"Micronesian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Middle East"@en
+"Middle East"^^<http://www.w3.org/2001/XMLSchema#string>
+"Middle Eastern"@en
+"Mikaya, Baluma"@en
+"Mishing, Deori, Sonowal Kacharis minority groups - Ahom, Sutiya, Kalita"@en
+"Mishmi people"@en
+"Misings, Deoris and Sonowal Kacharis"@en
+"Mitsogho, Bongo Pygmies"@en
+"Mix Malay,Chinese and Arab – Muslim"@en
+"Mixed Caribbean Amerindian and white"@en
+"Mixed Chinese/European"@en
+"Mixed Filipino, Spanish, German"@en
+"Mixed Filipino, Spanish, Swiss, German"@en
+"Mixed Race 2.3%"@en
+"Mixed Race"@en
+"Mixed race"@en
+"Mixed"@en
+"Mixed"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mixed, Hispanic"@en
+"Mixed,African heritage"@en
+"Mixed-race Brazilianhttp://www.global-training-report.com/reyla_rev.htm"@en
+"Mixed-race"@en
+"Mixed/Eurasian"@en
+"Mizo"@en
+"Mizrahi Jewish"@en
+"Mocoví people"@en
+"Mohawk / English"@en
+"Mohawk, Cree, and Italian"@en
+"Mohawk, Cree, and Italian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mohegan Tribal Council of Elders"@en
+"Mohegan Tribal Council of Elders"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mohegan"@en
+"Mohegan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Mohegan, Montauk, Niantic, Pequot, and Shinnecock"@en
+"Mole–Dagbani"@en
+"Mon"@en
+"Mongolian"@en
+"Mongolian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Monguor"@en
+"Monguor"^^<http://www.w3.org/2001/XMLSchema#string>
+"Monpa people etc."@en
+"Montenegrin and Serb"@en
+"Montenegrin"@en
+"Montenegrins and Serbs"@en
+"Montenegrins and Serbs"^^<http://www.w3.org/2001/XMLSchema#string>
+"Montenegrins, Serbs"@en
+"Moonjan"@en
+"Moriori"@en
+"Moro , Bajau and Zamboangueño Chavacano"@en
+"Moroccan Jewish"@en
+"Morrocan and Algerian"@en
+"Morrocan, Algerian,"@en
+"Mosiro people"@en
+"Mossi"@en
+"Mostly African American"@en
+"Mostly Balochis & Niazi"@en
+"Mostly Balochis & Sindhis"@en
+"Mostly Brazilian"@en
+"Mostly Central Americans"@en
+"Mostly French Canadian & Irish Canadian"@en
+"Mostly Hispanic"@en
+"Mostly Hispanic, with some White and Black members"@en
+"Mostly Russian but also Ashkenazi Jews"@en
+"Mostly Russian"@en
+"Mostly Salvadorans"@en
+"Mother born in Dublin, Scottish father"@en
+"Mountain Jew, Circassian"@en
+"Moxo people"@en
+"Muganda"@en
+"Mulatto West African Mestizoa European East Indian"@en
+"Multi-ethnic"@en
+"Multi-ethnic"^^<http://www.w3.org/2001/XMLSchema#string>
+"Multicultural"@en
+"Multiracial"@en
+"Munchkin"@en
+"Munchkins, Winkies, Quadlings, Gillikins"@en
+"Murrawarri people"@en
+"Muruli"@en
+"Muskogee Creek-Seminole and Cherokee"@en
+"Muslim Khatri"@en
+"Muslim"@en
+"Muslims 1.81%"@en
+"Musoga"@en
+"Musongora"@en
+"Myanmar"@en
+"Myene , Bongo Pygmies"@en
+"Métis"@en
+"Māori"@en
+"NONE"@en
+"Nanjing People"@en
+"Nasirabadi Naqvi Sayyid"@en
+"Nasrani or St. Thomas Christians"@en
+"Nasrani, Roman Catholic Christian"@en
+"Nasrani, Syrian Orthodox Christian"@en
+"Nasrani, Syrian Orthodox"@en
+"Nasu"@en
+"Native American and Italian"@en
+"Native American"@en
+"Native American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Native American, European and African American"@en
+"Native American, Hispanic"@en
+"Native American, Italian, and Scottish"@en
+"Native American, Karuk tribe"@en
+"Native American, Karuk tribe"^^<http://www.w3.org/2001/XMLSchema#string>
+"Native Chamorros , Filipino , White , Chinese, Japanese and Korean ancestry"@en
+"Native Fijians , Indo-Fijians ; other"@en
+"Native Fijians , Indo-Fijians Others"@en
+"Native Fijians, Indo-Fijians ; other"@en
+"Native Iraqi"@en
+"Native Islanders, Garifuna, Expatriates"@en
+"Native Islanders, Garifuna, Expatriates"^^<http://www.w3.org/2001/XMLSchema#string>
+"Native Valeymilovskiy"@en
+"Nattukottai Chettiar"@en
+"Nattukottai Chettiar"^^<http://www.w3.org/2001/XMLSchema#string>
+"Naturalized Musoga"@en
+"Ncoakhoe"@en
+"Ndir"@en
+"Nepalese and Ukrainian"@en
+"Nepalese father;"@en
+"Nepali people"@en
+"Nepali"@en
+"Nepali"^^<http://www.w3.org/2001/XMLSchema#string>
+"Never married"@en
+"New Zealand European"@en
+"New Zealander/M?ori"^^<http://www.w3.org/2001/XMLSchema#string>
+"New Zealander/Māori"@en
+"Newar"@en
+"Nexican"@en
+"Nexican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ngarndji"@en
+"Nias, Malay, Batak, and Chinese"@en
+"Nigerian & Russian"@en
+"Nigerian"@en
+"Nigerian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Nigerian, Ghanaian"@en
+"Nisei"@en
+"Nisei"^^<http://www.w3.org/2001/XMLSchema#string>
+"No official estimates"@en
+"No official estimates. See demographics section"@en
+"Nomes"@en
+"None"@en
+"None"^^<http://www.w3.org/2001/XMLSchema#string>
+"Norman, French, English"@en
+"North - Indian"@en
+"North American African"@en
+"North Midland tribe of Tasmanians"@en
+"Northeastern and Ben Lomond tribes of Tasmanians"@en
+"Northeastern, Ben Lomond, and North Midland tribes of Tasmanians"@en
+"Northern Cheyenne"@en
+"Northern Irish"@en
+"Northern tribe of Tasmanians"@en
+"Northwestern and Southwestern tribes of Tasmanians"@en
+"Northwestern tribe of Tasmanians"@en
+"Norwegian descent"@en
+"Norwegian descent"^^<http://www.w3.org/2001/XMLSchema#string>
+"Norwegian"@en
+"Norwegian/Swedish"@en
+"Ntrubo"@en
+"Nu-matua, Tia-ngaro-tonga"@en
+"Nzima"@en
+"Occitan, French"@en
+"Odia"@en
+"Of Polish, Irish, Egyptian and Lebanese descent"@en
+"Oguzes, Kumans, Kangars, Turgeshes"@en
+"Ojibwa and Scots-Irish"@en
+"Ojibwa and Scots-Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ojibwe"@en
+"Okande"@en
+"Okinawan"@en
+"Omaha, Ponca, Iowa, French and Anglo-American descent"@en
+"Oohenumpa"@en
+"Orcs and Demon worshippers"@en
+"Originally Normanized Breton, French ref|The progenitor of the Stuarts was Walter fitz Alan, a Normanised Breton.|group=note"@en
+"Originally Normanized Breton, French"@en
+"Oriya"@en
+"Oromo 34.5%"@en
+"Orthodox Hindu"@en
+"Ossetian and Azari"@en
+"Ossetian"@en
+"Other 1%"@en
+"Other White 4%"@en
+"Other"@en
+"Others 0.6%"@en
+"Others 0.6%"^^<http://www.w3.org/2001/XMLSchema#string>
+"Others"@en
+"Ovimbundu"@en
+"Oyster Bay and Big River tribes of Tasmanians"@en
+"Oyster Bay tribe of Tasmanians"@en
+"Oyster Bay, Big River, and Bruny tribes of Tasmanians"@en
+"P?keh? New Zealander"^^<http://www.w3.org/2001/XMLSchema#string>
+"Pacific Islander"@en
+"Pacific Islander"^^<http://www.w3.org/2001/XMLSchema#string>
+"Pahangite Malays"@en
+"Pahari"@en
+"Pakistani / Scottish"@en
+"Pakistani / Scottish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Pakistani Asian"@en
+"Pakistani Shia"@en
+"Pakistani"@en
+"Pakistani"^^<http://www.w3.org/2001/XMLSchema#string>
+"Pakistani, Czech"@en
+"Pakistani-European"@en
+"Pakistani/Welsh"@en
+"Palaba"@en
+"Palestinian Arab"@en
+"Palestinian Jewish"@en
+"Palestinian Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Palestinian and Nigerian"@en
+"Palestinian"@en
+"Palestinian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Palestinian-American"@en
+"Palestinians"@en
+"Pan-Slavic and Dalmatian"@en
+"Panare people"@en
+"Papuan and Austronesian"@en
+"Papuans and Austronesians"@en
+"Papuans and Austronesians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Paraguayan"@en
+"Pardo/Afro-Brazilian/Latin"@en
+"Parsi Indian/German"@en
+"Parsi"@en
+"Parsi, Punjabi"@en
+"Pashtoon"@en
+"Pashtun"@en
+"Pashtun, Kharoti tribe"@en
+"Pathan of Peshewar"@en
+"Pathan"@en
+"Patwardhan family Tasgaon"@en
+"Pech"@en
+"Pend d'Oreilles (Kalispel), Flathead, Spokane peoples"@en
+"Pending"@en
+"Pennsylvania German"@en
+"Penobscot"@en
+"Penobscot"^^<http://www.w3.org/2001/XMLSchema#string>
+"People Ghana, Bangladeshi"@en
+"People of European ethnicities, mostly of French, Italian, Irish, and English origins"@en
+"Persian Jewish"@en
+"Persian or Pashtun"@en
+"Persian or Persian"@en
+"Persian or Turkic"@en
+"Persian people"@en
+"Persian"@en
+"Persian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Persian-American"@en
+"Persian/Azerbaijani"@en
+"Perso-Bengali"@en
+"Peruvian"@en
+"Peruvian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Peruvian, Irish American, German"@en
+"Peruvian, Irish-American, German"@en
+"Pitjantjatjara and Ngaanyatjarra"@en
+"Poles, Ruthenians"@en
+"Polish / Russian / Italian"@en
+"Polish Jew"@en
+"Polish and Latvian American"@en
+"Polish and Native American"@en
+"Polish mother"@en
+"Polish or Abazin"@en
+"Polish parents"@en
+"Polish"@en
+"Polish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Polish, German, Portuguese"@en
+"Polish, Irish"@en
+"Polish, Jewish"@en
+"Polish, Russian, Italian russ"@en
+"Polish, Ruthenian"@en
+"Polish-American"@en
+"Polish-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Polish-English"@en
+"Polish-Jewish"@en
+"Polish/Romanian"@en
+"Polynesian 100%"@en
+"Pontic Greeks"@en
+"Portuguese and Italian descent"@en
+"Portuguese mother"@en
+"Portuguese"@en
+"Portuguese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Portuguese-American"@en
+"Portuguese-Indian, Jamaican"@en
+"Powhatan Pamunkey"@en
+"Predominantly Cambodian"@en
+"Predominantly Chechens"@en
+"Predominantly Maghrebi Jews, Russian Jews, Georgian Jews and Palestinians"@en
+"Predominantly Mirpuris and Pathans as well as Pakistani Punjabis"@en
+"Predominantly Pardo and Afro-Brazilian"@en
+"Predominantly Russian, Russian Jews, Georgians, other nationalities"@en
+"Predominantly Russians and Russian Jews"@en
+"Predominantly Russians"@en
+"Predominantly Russians, Russian Jews, Ukrainians, Georgians, Armenians and Azerbaijanis"@en
+"Predominantly Samoan, some Tongan"@en
+"Predominantly Ukrainian Jews and Ukrainians"@en
+"Presumed White British"@en
+"Presumed White British"^^<http://www.w3.org/2001/XMLSchema#string>
+"Primarily African-American and Irish-American descent"@en
+"Primarily Belizean Creole and African American"@en
+"Primarily Belizean Creole"@en
+"Primarily English and German descent"@en
+"Primarily English descent"@en
+"Primarily English"@en
+"Primarily Mexican-American"@en
+"Primarily Mexican-American"^^<http://www.w3.org/2001/XMLSchema#string>
+"Primarily Muslim"@en
+"Primarily Persian descent"@en
+"Primarily Qeshmi, Minabi, Kumzari and Bandri Persian speaking Iranians and Iranian Arabs"@en
+"Primarily Russian descent"@en
+"Primarily Russians, also Russian Jews, Uzbeks, Tatars"@en
+"Primarily Syrian of Arab descent"@en
+"Proto-Serb"@en
+"Puerto Rican and Dominican"@en
+"Puerto Rican and Dominican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Puerto Rican and Italian"@en
+"Puerto Rican"@en
+"Puerto Rican"^^<http://www.w3.org/2001/XMLSchema#string>
+"Puerto Rican, Cuban, French, Irish"@en
+"Puerto Rican, Welsh"@en
+"Puerto Rican-American"@en
+"Punjabi Hindus"@en
+"Punjabi Indian"@en
+"Punjabi Pooja Chopra"@en
+"Punjabi"@en
+"Punjabi"^^<http://www.w3.org/2001/XMLSchema#string>
+"Punjabi, Muhajir"@en
+"Punjabi-Indian"@en
+"Purki"@en
+"Puyuma"@en
+"Páez"@en
+"Pākehā New Zealander"@en
+"Pākehā of Irish descent"@en
+"Quandamooka"@en
+"Quandamooka"^^<http://www.w3.org/2001/XMLSchema#string>
+"Quems, Pajalat, etc."@en
+"Querandí etc."@en
+"Rakiura Māori"@en
+"Regular"@en
+"Rirratjingu clan"@en
+"Rizvi Sayed"@en
+"Romani"@en
+"Romanian and French"@en
+"Romanian"@en
+"Romanian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Romanian, Mongolian, Black, Irish, German, Cherokee & Canadian"@en
+"Romanian, Mongolian, Black, Irish, German, Cherokee & Canadian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Romanian; Jewish"@en
+"Romany Gypsy"@en
+"Rotuman"@en
+"Russian American, Jewish"@en
+"Russian Jewish"@en
+"Russian Valeymilovskiy"@en
+"Russian and German"@en
+"Russian"@en
+"Russian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Russian, African American, Sioux Native American"@en
+"Russian, Bolivian"@en
+"Russian, German"@en
+"Russian, Ukrainian, Belarussian"@en
+"Russian, Ukrainian, Tatar"@en
+"Russian-German Mennonite"@en
+"Russian-Jewish"@en
+"Russian-Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Russian-Lithuanian"@en
+"Russian/German"@en
+"Russian/Polish"@en
+"Russian; Romanian American"@en
+"Russians Ukrainians Belarusians Armenians"@en
+"Russians Ukrainians Pontic Greeks"@en
+"Russians Ukrainians"@en
+"Russians, Koreans, Nivkhs, Oroks, Evenks and Yakuts."@en
+"Rusyn"@en
+"Ruthenian"@en
+"Rutul"@en
+"Ryukyuan"@en
+"Sabbatean"@en
+"Sabbatean"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sahaptins"@en
+"Sahrawi"@en
+"Sahrawi"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sakimay First Nation, Ninankawe Marival Metis"@en
+"Samba"@en
+"Same"@en
+"Same"^^<http://www.w3.org/2001/XMLSchema#string>
+"Samia by Birth"@en
+"Samoan"@en
+"Sanavirones"@en
+"Sanavirones"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sanpits"@en
+"Santal and Teraibasi Santali"@en
+"Santee, Sisseton, Yankton, Yanktonai Sioux"@en
+"Saraiki Baloch."@en
+"Satawalese"@en
+"Satawalese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sati tribe"@en
+"Saudi Arabian-Filipino"@en
+"Sazanian and Albanians"@en
+"Scotch, English, Welsh"@en
+"Scotch, English, Welsh"^^<http://www.w3.org/2001/XMLSchema#string>
+"Scots"@en
+"Scots"^^<http://www.w3.org/2001/XMLSchema#string>
+"Scots-Irish"@en
+"Scots-Irish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Scottish , English , Irish , French , German , and Dutch"@en
+"Scottish American father"@en
+"Scottish Australian; Anglo-Celtic Australian; British; United States"@en
+"Scottish Brazilian and Brazilianhttp://www.global-training-report.com/reyla_rev.htm"@en
+"Scottish and English mother"@en
+"Scottish father"@en
+"Scottish"@en
+"Scottish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Scottish&ndash;Haitian"@en
+"Scottish, English"@en
+"Scottish-Austrian"@en
+"Scottish-English-Armenian"@en
+"Scottish-English-Armenian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Scottish–Haitian"@en
+"Secular Jewish"@en
+"Secular Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"See Blackfoot Confederacy"@en
+"See text"@en
+"See text"^^<http://www.w3.org/2001/XMLSchema#string>
+"Seereer ."@en
+"Senegambians"@en
+"Senegambians"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sephardic Jew and Karen"@en
+"Sephardic Jewish and Flemish"@en
+"Sephardic Jewish"@en
+"Sephardic Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sephardim and Sabbateans"@en
+"Seraiki"@en
+"Serb or Russian"@en
+"Serb"@en
+"Serb"^^<http://www.w3.org/2001/XMLSchema#string>
+"Serb, partially Cuman"@en
+"Serbian"@en
+"Serbian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Serbs and Montenegrins."@en
+"Serer and Wolof"@en
+"Serer and Wolof"^^<http://www.w3.org/2001/XMLSchema#string>
+"Serer people"@en
+"Serer people"^^<http://www.w3.org/2001/XMLSchema#string>
+"Several Algonquian peoples including the Massachusett, Wampanoag, Naumkeag, Nauset, Cowesit and others."@en
+"Shapsugs Tribe - Circassian"@en
+"Sharchops, Memba , Pemako People"@en
+"Shawnee"@en
+"Shilluk people or Sudanese"@en
+"Shompen"@en
+"Shoshone"@en
+"Sibuyanon"@en
+"Sicilian and Jewish"@en
+"Sicilian"@en
+"Sicilian, Blackfoot, Spanish, and English"@en
+"Sicilian/Lebanese Jewish"@en
+"Sidama 4%"@en
+"Sikh"@en
+"Silesian-German"@en
+"Sindhi People"@en
+"Sindhi"@en
+"Singapore Indians"@en
+"Singapore"@en
+"Sinhalese & Portuguese"@en
+"Sinhalese & Portuguese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sinhalese - 70%, Sri Lanka Tamils - 10%, Sri Lankan Muslims 8%"@en
+"Sinhalese - 75%, Sri Lanka Tamils - 11%, Sri Lankan Muslims 9%"@en
+"Sinhalese and Scottish"@en
+"Sinhalese"@en
+"Slavic or Albanian"@en
+"Slavo-Albanian"@en
+"Slavo-Albanian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Slovak and Hungarian"@en
+"Slovak and perhaps Tatar or Cherkess ancestry"@en
+"Slovak and perhaps Tatar or Cherkess ancestry"^^<http://www.w3.org/2001/XMLSchema#string>
+"Slovak"@en
+"Slovak, Hungarian, Polish,"@en
+"Slovak-German"@en
+"Slovak/Israeli"@en
+"Slovene"@en
+"Slovene"^^<http://www.w3.org/2001/XMLSchema#string>
+"Slovenian"@en
+"Slovenian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Somali 6.2%"@en
+"Somali"@en
+"Somalis Bantus Arabs and other non-Somalis"@en
+"Somalis Bantus and other non-Somalis"@en
+"Somalis Benadiris Bantus and other non-Somalis"@en
+"Songhai"@en
+"Source: Mill Island at Atlas of Canada"@en
+"South African"@en
+"South Asian Indian"@en
+"South Asian"@en
+"South Indian"@en
+"South Korea, Singapore"@en
+"South Tyrolean"@en
+"South Vietnamese"@en
+"Southwestern tribe of Tasmanians"@en
+"Spaniard ItalianPortuguese German West African"@en
+"Spaniard"@en
+"Spaniard, German and Ukrainian"@en
+"Spaniard-Charrúa and Guaraní"@en
+"Spaniard-Charrúa and Guaraní"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish American"@en
+"Spanish Cuban mother;"@en
+"Spanish Moor"@en
+"Spanish Moor"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish and Finnish"@en
+"Spanish and French"@en
+"Spanish and Jewish"@en
+"Spanish and Jewish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish and Lebanese"@en
+"Spanish and Lebanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish descendant"@en
+"Spanish mother;"@en
+"Spanish"@en
+"Spanish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish, African, Indigenous"@en
+"Spanish, African, Indigenous"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish, Basque, Filipino"@en
+"Spanish, Burgundian"@en
+"Spanish, Burgundian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Spanish, Finnish"@en
+"Spanish, German, Jewish"@en
+"Spanish, Spanish mestizo, Bibaro, Arumbajo"@en
+"Spanish, other minority groups"@en
+"Spanish-Filipino, English"@en
+"Spanish-French"@en
+"Sri Lankan"@en
+"Sri Lankan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Sri Lankan, Sinhala"@en
+"Sto:lo, Cowichan, Snuneymuxw , others"@en
+"Sumba people, Austronesian and Melanesians ancestry"@en
+"Suruí do Pará, Asuriní, Parakanã"@en
+"Suruí do Pará, Asuriní, Parakanã"^^<http://www.w3.org/2001/XMLSchema#string>
+"Swahili"@en
+"Swedish and Sami"@en
+"Swedish father"@en
+"Swedish mother"@en
+"Swedish speaking Finn"@en
+"Swedish"@en
+"Swedish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Swedish, German, and Irish"@en
+"Swedish, Irish, French, Italian, Dutch"@en
+"Swedish-American"@en
+"Swedish/Japanese"@en
+"Swedish/Scottish"@en
+"Swiss Brazilian"@en
+"Swiss"@en
+"Swiss, Hungarian"@en
+"Swiss-French"@en
+"Swiss-German"@en
+"Syldavian people"@en
+"Syldavian"@en
+"Syrian Arab"@en
+"Syrian Jewish"@en
+"Syrian"@en
+"TF2ian"@en
+"Taiwanese Japanese"@en
+"Taiwanese and Japanese"@en
+"Taiwanese"@en
+"Taiwanese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Tajik"@en
+"Tamil Intelligence ="@en
+"Tamil Thevar"@en
+"Tamil"@en
+"Tamil"^^<http://www.w3.org/2001/XMLSchema#string>
+"Tamprusi"@en
+"Tanimuca, Retuarã"@en
+"Tanimuca, Retuarã"^^<http://www.w3.org/2001/XMLSchema#string>
+"Tanzanian"@en
+"Tatar"@en
+"Teke, Bongo Pygmies"@en
+"Telmarines"@en
+"Telmarines, Dwarfs, Giants, Fauns, Centaurs, Nymphs, Marsh-wiggles, etc."@en
+"Telugu, Andhraite"@en
+"Temne"@en
+"Thai , Peranakan, Thai Malaysian"@en
+"Thai half German"@en
+"Thai"@en
+"Thai"^^<http://www.w3.org/2001/XMLSchema#string>
+"Thai, Mon"@en
+"Thai/Cambodian/Chinese/Brazilian"@en
+"Thai/Chinese"@en
+"Thai/English"@en
+"Thai/German"@en
+"Thai/Malaysian"@en
+"Thai/Spanish"@en
+"Tharu"@en
+"Tibetan"@en
+"Tigraway 6.1%"@en
+"Tindian"@en
+"Tiwi"@en
+"Tlou-tle"@en
+"Tobelo, Galela, Sahu, Waioli, Modole, Pagu, Kao Islam, Sawai, Gane, Buli, Maba, Loloda, Tabaru, Patani, Bicoli. Significant migrant groups include Sangir, Ternate, Tidore, Makian, and Javanese."@en
+"Tobelo, Togutil people, Galela, Sahu, Waioli, Modole, Pagu, Kao Islam, Sawai, Gane, Buli, Maba, Loloda, Tabaru, Patani, Bicoli. Significant migrant groups include Sangir, Ternate, Tidore, Makian, and Javanese."@en
+"Tolupan"@en
+"Tongan , European, Chinese, Pacific Islanders"@en
+"Tongan , European, Chinese, Pacific Islanders."@en
+"Tongan , European, Chinese, Pacific Islanders."^^<http://www.w3.org/2001/XMLSchema#string>
+"Tongan"@en
+"Tongan, Pacific Islanders, Europeans, Chinese"@en
+"Torajan"@en
+"Torajan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Trinidadian"@en
+"Trinidadian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Trinidadian, Bajan"@en
+"Tseshaht First Nation territory"@en
+"Tsimshian territory"@en
+"Tsonga and Venda"@en
+"Tunisian Jewish father"@en
+"Tunisian"@en
+"Tunisian, Algerian"@en
+"Tunisian, Algerian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turco-Tatar"@en
+"Turco-Tatar"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turcoman"@en
+"Turcoman"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turkic"@en
+"Turkish German"@en
+"Turkish German"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turkish and Crimean Tatar"@en
+"Turkish father"@en
+"Turkish"@en
+"Turkish"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turkish, Lebanese, Armenian"@en
+"Turkish, Lebanese, Armenian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Turtle Clan, Narragansett tribe; tribal council member"@en
+"Turtle Clan, Narragansett tribe; tribal council member"^^<http://www.w3.org/2001/XMLSchema#string>
+"USA"@en
+"Ugandan Asian"@en
+"Ukraine"@en
+"Ukrainian / French"@en
+"Ukrainian / French"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ukrainian Canadian"@en
+"Ukrainian Jewish father; Russian mother"@en
+"Ukrainian Jewish heritage"@en
+"Ukrainian Jewish"@en
+"Ukrainian and Polish"@en
+"Ukrainian and Spaniard"@en
+"Ukrainian"@en
+"Ukrainian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Ukrainian, German, Dutch mother"@en
+"Ukrainian/Rusyn"@en
+"Ukrainians"@en
+"Ukwuani and other Anioma people"@en
+"Ulster-Scot"@en
+"Undetermined"@en
+"Unidentified tribe of Tasmanians"@en
+"Unknown"@en
+"Urdu speaking"@en
+"Urdu"@en
+"Usmani"@en
+"Uttar Pradesh, India"@en
+"Uzbek"@en
+"Vagciriku, Vamanyo, Vashambyu"@en
+"Vaiphei"@en
+"Vaishya"@en
+"Vambo"@en
+"Vambo"^^<http://www.w3.org/2001/XMLSchema#string>
+"Various ethnicities"@en
+"Venetian"@en
+"Venetian"^^<http://www.w3.org/2001/XMLSchema#string>
+"Venezuelan"@en
+"Venezuelan"^^<http://www.w3.org/2001/XMLSchema#string>
+"Venezuelan, Italian and Irish"@en
+"Veps"@en
+"Vietnamese American"@en
+"Vietnamese mother"@en
+"Vietnamese"@en
+"Vietnamese"^^<http://www.w3.org/2001/XMLSchema#string>
+"Visayan and other ethnic groups."@en
+"Visayan and other ethnic groups."^^<http://www.w3.org/2001/XMLSchema#string>
+"Visayan"@en
+"Visayan,"@en
+"Visayans"@en
+"WASP"@en
+"Wales, Scotland, England"@en
+"Walloon"@en
+"Walloon"^^<http://www.w3.org/2001/XMLSchema#string>
+"Wanano, Piratapuyo"@en
+"Wanda, Sichela"@en
+"Wangara"@en
+"Wei We Kai, Kwiakah, Homalco and Klahoose First Nations"@en
+"Wei We Kai, Kwiakah, Homalco and Klahoose First Nations"^^<http://www.w3.org/2001/XMLSchema#string>
+"Welsh and German"@en
+"Welsh"@en
+"Welsh"^^<http://www.w3.org/2001/XMLSchema#string>
+"Wendish"@en
+"Wenzhounese"@en
+"West Africans Creoles Mulatto British Irish"@en
+"White 80.5%, Mulatto 10.9%, Black 8.0%, Amerindian 0.4%, Asian 0.2%"@en
+"White African"@en
+"White American and Native American"@en
+"White American and Native American"^^<http://www.w3.org/2001/XMLSchema#string>
+"White American"@en
+"White American"^^<http://www.w3.org/2001/XMLSchema#string>
+"White British 79.8%"@en
+"White British 80.8%"@en
+"White British"@en
+"White British"^^<http://www.w3.org/2001/XMLSchema#string>
+"White Caucasian"@en
+"White Creole (mulatto) Black Mestizoa"@en
+"White Creole (mulatto) Black Mestizoa"^^<http://www.w3.org/2001/XMLSchema#string>
+"White English"@en
+"White European"@en
+"White Indian"@en
+"White Irish"@en
+"White also with Native American ancestry"@en
+"White"@en
+"White"^^<http://www.w3.org/2001/XMLSchema#string>
+"White-Caucasian, Turkish"@en
+"White-French"@en
+"White/Black/Indian"@en
+"White/British"@en
+"White/Caucasian"@en
+"White/Caucasian"^^<http://www.w3.org/2001/XMLSchema#string>
+"White/Indian American"@en
+"White/Jewish"@en
+"White: 64.1%, Mulatto / Mestizo: 26.6%, Black: 9.3%."@en
+"White: 65.1%, Mulatto / Mestizo: 23.8%, Black: 10.1%, Asian: 1%"@en
+"Whites, Reds"@en
+"Winkies"@en
+"Witches"@en
+"Witches"^^<http://www.w3.org/2001/XMLSchema#string>
+"Wolayta 2.3%"@en
+"Xibe people"@en
+"Xukuru people"@en
+"Yaghan people"@en
+"Yahi people of California"@en
+"Yakuts"@en
+"Yaminawá and related peoples"@en
+"Yarmirr"@en
+"Yasa and Pygmies"@en
+"Yemen"@en
+"Yemen"^^<http://www.w3.org/2001/XMLSchema#string>
+"Yemeni"@en
+"Yemeni"^^<http://www.w3.org/2001/XMLSchema#string>
+"Yoruba"@en
+"Zabarima"@en
+"Zambian"@en
+"Zaza"@en
+"Zaza"^^<http://www.w3.org/2001/XMLSchema#string>
+"Zeliangrong"@en
+"Zen Buddhist"@en
+"Zen Buddhist"^^<http://www.w3.org/2001/XMLSchema#string>
+"Zilmamo, Kichepo"@en
+"Zimbawean, Jamaican"@en
+"Zomi"@en
+"[Bahoro people]"@en
+"[Guyanese ]"@en
+"[Indian]"@en
+"[Itsekiri]"@en
+"[Itsekiri]"^^<http://www.w3.org/2001/XMLSchema#string>
+"[Pashtun]"@en
+"[Somali people|Somali]"@en
+"[Welsh]"@en
+"[["@en
+"[[]]"@en
+"`Arab"@en
+"african american"@en
+"and later Persian"@en
+"aryan"@en
+"background:transparent;text-align:left;font-weight:normal; 84.6% Bulgarians 8.9% Turks 4.8% Roma 1.7% others"@en
+"background:transparent;text-align:left;font-weight:normal; 88% Bulgarians 6% Turks 2% Roma 4% others"@en
+"bangli"@en
+"bengali hindi"@en
+"black race"@en
+"black"@en
+"black"^^<http://www.w3.org/2001/XMLSchema#string>
+"ca. 10,000 Lobu"@en
+"ca. 10,000 Tsimshian people"@en
+"ca. 340"@en
+"caucasian"@en
+"caucasian"^^<http://www.w3.org/2001/XMLSchema#string>
+"caucasion"@en
+"christian"@en
+"disputed, Italian or Greek"@en
+"eurasian"@en
+"european"@en
+"fields = French"@en
+"fields = Historian"@en
+"formerly Xakriabá people"@en
+"formerly Xakriabá people"^^<http://www.w3.org/2001/XMLSchema#string>
+"founder Thai, Mon, Chinese"@en
+"gopher"@en
+"half Swedish & half Hungarian"@en
+"half Swedish, half Hungarian"@en
+"half Swiss, half Hungarian"@en
+"hispanic"@en
+"hispanic"^^<http://www.w3.org/2001/XMLSchema#string>
+"hungarian jew"@en
+"i think he was from europe because he said he was going to becomea citizen of the united states and he did from around the time of age 42 or43."@en
+"ian"@en
+"incl. Gejia"@en
+"incl. Taungyo"@en
+"include Mbenga"@en
+"india"@en
+"kashmiri"@en
+"koch rajbonshi"@en
+"later French"@en
+"latino"@en
+"latino"^^<http://www.w3.org/2001/XMLSchema#string>
+"mainly Caucasian"@en
+"mainly mexican-american"@en
+"million Tujia"@en
+"mixed 40%, white 20%, black 20%, expatriates of various ethnic groups 20%"@en
+"mixed Greek, Irish and English heritage"@en
+"mixed Greek, Irish and English heritage"^^<http://www.w3.org/2001/XMLSchema#string>
+"mixed White-Amerindian"@en
+"mixed White-Amerindian"^^<http://www.w3.org/2001/XMLSchema#string>
+"mixed race"@en
+"mixed-race mulatto Brazilian Portuguese ancestry"@en
+"mixed-race"@en
+"mostly African American"@en
+"mostly African American, some Caucasian and New Zealand Maori"@en
+"mostly Miao, some Yao"@en
+"mother - Australian, father - Croatian"@en
+"mother - Maltese, father - Croatian"@en
+"multiracial"@en
+"mumbaikar"@en
+"muslim, Turkish"@en
+"no official statistics"@en
+"none"@en
+"none"^^<http://www.w3.org/2001/XMLSchema#string>
+"of the Yolngu people"@en
+"one thousand Apiacá"@en
+"one thousand Boruca people"@en
+"one thousand Tolowa ; one hundred Chetco"@en
+"one thousand Tolowa"@en
+"one thousand"@en
+"originally Normanized Breton, French ref|The progenitor of the Stewarts (Stuarts) is Walter fitz Alan, himself a Normanised Breton.|group=note"@en
+"other Asian and Indigenous peoples,"@en
+"other, non-official, scholarly estimates are 10% 3.0% Kazakh 2.5% Karakalpak 1.5% Tatar 2.5% others"@en
+"other, non-official, scholarly estimates are 30% 3.0% Kazakh 2.5% Karakalpak 1.5% Tatar 2.5% others"@en
+"others 1.37%"@en
+"part-Cherokee"@en
+"people in the town"@en
+"perhaps 100–250 Sentinelese people"@en
+"perhaps 16,000"@en
+"perhaps 5,000"@en
+"perhaps > 100,000"@en
+"persian"@en
+"possibly Serb"@en
+"predominantly Arabs and Soqotris; minority Somalis, Indians, and Black Africans descended from various ethnic groups"@en
+"predominantly Baloch, some Brahui"@en
+"predominantly Soqotris; minority Somalis, Arabs, Indians, and Black Africans descended from various ethnic groups"@en
+"predominantly north European"@en
+"predominately African American"@en
+"punjabi"@en
+"refugees in Congo , now returned to South Sudan"@en
+"romania"@en
+"see ''[[#Demographics"@en
+"self-identified Japanese American"@en
+"some Ngoni people"@en
+"some of the Yao peoples"@en
+"spoken by 20–30%"@en
+"spoken by 20–60% of the population"@en
+"spoken by 20–60%"@en
+"spoken by 30% or less"@en
+"spoken by 40% of the population"@en
+"spoken by 40%"@en
+"spoken by 40–50%"@en
+"spoken by 40–60% of Saisiyat"@en
+"spoken by 40–60%"@en
+"spoken by 70% of the population"@en
+"spoken by 70%"@en
+"syrian"@en
+"ukrainian"@en
+"unclear"@en
+"unspecified"@en
+"various"@en
+"white"@en
+"white"^^<http://www.w3.org/2001/XMLSchema#string>
+"white/Caucasian"@en
+"wild boar"@en
+"wild boar"^^<http://www.w3.org/2001/XMLSchema#string>
+"~95% Mestizoa 5% Other"@en
+"→"@en
+"≈100% Maldiviansa"@en
+0
+0.2
+0.3
+0.32
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.06
+1.2
+1.26
+1.3
+1.37
+1.4
+1.5
+1.6
+1.7
+1.79
+1.8
+1.81
+1.9
+10
+100
+1000
+10000
+1010
+10100
+1070
+107000
+10700000
+11.03
+11.1
+11.6
+11.9
+110
+1100
+1100000
+11100
+1120
+1130
+1140
+1150
+1160
+119
+1190
+12
+12.1
+12.3
+12.85
+120
+1200
+12000
+120000
+1220
+12200
+12300
+1250
+12600
+1260000
+13.3
+13.6
+130
+13000
+1340
+13700
+14.3
+14.47
+140
+1400
+14000
+140000
+1410
+1420
+14200
+14800
+15.73
+150
+1500
+15000
+150000
+1510
+1560
+15600
+15800
+15900
+16.1
+16.3
+160
+1600
+1620
+16300
+1650
+1660
+16700
+1680
+170
+1700
+17000
+171000
+17200
+172000
+17400
+18.4
+18.9
+1800
+18000
+1850
+19
+19.2
+190
+1900
+1900000
+1910
+19500
+2
+2.1
+2.2
+2.3
+2.31
+2.4
+2.5
+2.6
+2.7
+2.86
+2.9
+20
+20.3
+200
+2000
+20000
+2040
+20600
+20700
+21
+21.5
+2100
+210000
+2160
+21800
+22
+22.1
+220
+2200
+2220
+2270
+23
+23.4
+23.74
+230
+2300
+240
+24000
+2460
+25
+250
+2500
+250000
+2530
+25700
+26
+260
+26900
+27.4
+27.7
+270
+28
+28.6
+280
+2800
+28000
+2810
+29.7
+29.9
+290
+294000
+3
+3.15
+3.25
+3.4
+3.7
+3.71
+3.8
+30
+300
+3000
+30000
+300480
+30900
+31.21
+31.8
+31.95
+3100
+3180
+32
+32.1
+32.6
+32.7
+32.8
+320
+32000
+33
+330
+3300
+3300000
+3340
+340
+34000
+3410
+35
+35.8
+350
+3500
+35000
+36.6
+360
+3690
+37.1
+370
+3760
+38.57
+4
+4.1
+4.12
+4.2
+4.3
+4.4
+4.47
+4.6
+4.7
+4.9
+40
+40.3
+40.48
+400
+4000
+40000
+403
+4080
+41.5
+42
+42.1
+42000
+420000
+43.1
+43.3
+43.5
+43.9
+4350
+44600
+45
+45.9
+450
+46
+460
+47.5
+47000
+47100
+47600
+48
+48.8
+5
+5.4
+5.8
+5.9
+50
+50.1
+500
+5000
+50000
+51.6
+510
+5100
+520
+525
+5290
+53000
+5360
+54.54
+540
+5430
+548000
+55
+550
+56
+565
+570
+58
+58.32
+5800
+5840
+59.8
+590
+6
+6.03
+6.05
+6.3
+6.7
+6.8
+6.9
+60
+60.9
+600
+6000
+60000
+61.4
+61.7
+610
+6140
+63.2
+63.6
+6300
+64.1
+64.2
+6440
+65
+65.4
+65.9
+650
+657000
+66
+66.5
+66.9
+6670
+670
+68
+68000
+69
+69.1
+69.41
+69.9
+7
+7.3
+7.8
+70.1
+700
+7000
+71.9
+710000
+72
+72.6
+7220
+73
+7310
+7350
+74
+74.9
+75
+75.8
+750
+7500
+76
+76.7
+760
+7600
+7680
+77.8
+78
+78.6
+79
+79.9
+79000
+790000
+7910
+8
+8.1
+8.3
+8.8
+80
+80.7
+80.8
+800
+8000
+800000
+8000000
+8030
+81
+81.1
+81.8
+82
+82.5
+820
+8200
+83
+83.7
+84
+84.1
+84.5
+85
+85.4
+85.7
+850
+8500
+850000
+86
+86.3
+86.8
+860
+87.7
+87.8
+870
+875
+88
+88.5
+88.7
+88.9
+89
+89.2
+89.7
+8900
+9
+9.5
+9.6
+9.7
+9.9
+90
+90.4
+90.7
+900
+900000
+91
+91.25
+91.6
+91.7
+91.8
+92.1
+92.3
+92.6
+92.8
+93
+93.01
+93.4
+93.52
+93.6
+930
+9350
+94
+94.1
+94.5
+94.6
+94.9
+940
+95
+95.1
+95.3
+95.4
+95.6
+95.7
+95.88
+96
+96.3
+96.4
+96.5
+96.6
+96.7
+96.77
+96.8
+96.82
+97
+97.1
+97.2
+97.3
+97.59
+97.7
+97.9
+97.93
+975
+98
+98.1
+98.28
+98.5
+98.8
+980
+9860
+99.7
+990
+http://web.archive.org/web/20060615093455/www.4dw.net/royalark/Turkey/turkey4.htm

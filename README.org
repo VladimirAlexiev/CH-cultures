@@ -1,0 +1,327 @@
+#+COMMENT: -*- fill-column: 100 -*-
+#+STARTUP: showeverything
+#+TITLE: Cultures, Ethnic Groups, Periods, Styles, Movements: Creating a Master List
+#+DATE: 2015-08-17
+#+AUTHOR: Vladimir Alexiev, Laura Tolosi, Andrey Tagarev (Ontotext Corp)
+#+EMAIL: vladimir.alexiev@ontotext.com
+#+OPTIONS: ':nil *:t -:t ::t <:t H:5 \n:nil ^:{} arch:headline author:t c:nil
+#+OPTIONS: creator:comment d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 24.3.91.1 (Org mode 8.2.7c)
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE: en
+#+EXCLUDE_TAGS: noexport
+
+* Introduction
+
+* Culture Info Sources
+
+** Getty AAT
+The Getty Art and Architecture Thesaurus (AAT) is one of the 3 important CH thesauri provided by the Getty Research Institute and hosted at http://vocab.getty.edu.
+AAT includes a Styles and Periods facet under http://vocab.getty.edu/hier/aat/300264088.
+We can obtain them from the [[http://vocab.getty.edu/sparql][GVP LOD SPARQL endpoint]] with a query like this, and save the results to [[./aat-styles.tsv]].
+#+BEGIN_SRC 
+select ?x ?pref (group_concat(?a; separator="; ") as ?alt) ?note ?parent {
+  ?x gvp:broaderExtended aat:300264088; gvp:prefLabelGVP [xl:literalForm ?p].
+  bind(str(?p) as ?pref)
+  optional {?x xl:altLabel [xl:literalForm ?a].
+    filter(!langMatches(lang(?a),"nl") && !langMatches(lang(?a),"es") && !langMatches(lang(?a),"zh"))}
+  optional {?x skos:scopeNote/rdf:value ?note. filter(langMatches(lang(?note),"en"))}
+  optional {?x gvp:parentString ?parent}
+} group by ?x ?pref ?note ?parent order by ?pref
+#+END_SRC
+We obtain the concept, its label preferred by GVP, all its alt labels, scopeNote, and the "parent string" (which shows the hierarchy to the facet root).
+We limit to EN or a GVP "minor" language (excluding NL, ES and ZH).
+We use gvp:term to get the pref and alt labels instead of xl:literalForm, because gvp:term contains the pure term without the qualifier (eg "Abua" rather than "Abua (culture or style)")
+
+The AAT Styles and Periods facet includes 5507 entries, which include 5390 concepts, 117 guide terms and 1 hierarchy.
+Guide terms (eg <styles, periods, and cultures by general era>) and hierarchies are used only the organize the hierarchy, not for actual indexing.
+The [[http://vocab.getty.edu/hier/aat/300106339][Strasbourg]] Renaissance-Baroque ceramics style is situated deepest at 9 levels.
+AAT Styles and Periods includes concepts that correspond to a wide variety of cultural designations:
+- Geologic time scales, eg Precambrian
+- Archeological time scales, eg Stone Age, Bronze Age, Iron Age
+- Modern era designations, eg Modern (style or period), Space Age
+- Historic designations of ancient people, eg farmer (early cultures), hunter-gatherer (early cultures)
+- Regional designations, eg Asian, Siberian (culture or style), Laotian (associated with Laos), Luang Prabang
+- Ethnic groups, eg Ainu, Aztec, Blemmyes, Beja, Inuit
+- Empires and kingdoms, eg Middle Kingdom (Egyptian), Heracleopolitan, Ptolemaic, Romano-Egyptian, Holy Roman Imperial
+- Emperors, kings and dynasties, eg Louis XIV, Régence, Victorian
+- Archeological sites, eg Sandia, Folsom (named after the corresponding places in New Mexico and characterised by the use of Sandia, respectively Folsom points as projectile tips)
+- Pottery styles, eg red-polished, ripple-burnished, white cross-lined (Egyptian pottery styles)
+- Other specific characteristics, eg Parallel-flaked
+- Art movements, eg Minimal, Postmodern, Psychedelic, Mir Iskusstva
+
+This variety underscores the variety of cultural situations through which humanity has created artifacts and art.
+Getty have put this variety of designations in one facet since it would be difficult to define the differences between kinds of designations, which are often blurry.
+However, Getty systematically makes a difference between related entities of different kinds:
+- Culture or style, eg "Abua (culture or style)": http://vocab.getty.edu/aat/300016072
+- A creator who belongs to that culture when his/her identity is unknown, eg "unknown Abua (Abua cultural designation)": http://vocab.getty.edu/ulan/500125081
+- Language, eg Abua "(language)": http://vocab.getty.edu/aat/300387770
+We coreference only the first kind of AAT entities to other sources.
+
+** Getty ULAN
+The Getty Union List of Artist Names (ULAN) has an Unknown People by Culture facet.
+It includes 2218 entries for creators who belong to a particular culture, when their identity is unknown.
+Such entries (eg "unknown Abua") can be used in a CH record to indicate that the artefact is created by the Abua culture, but the creator is unknown.
+
+We can obtain the list of ULAN cultures [[./ulan.tsv]] with a query like this:
+#+BEGIN_SRC 
+select ?ulan ?lab {
+  ?ulan gvp:broaderExtended ulan:500125081; gvp:prefLabelGVP [gvp:term ?l]
+  bind(str(replace(?l,"unknown ","")) as ?lab)
+} order by ?lab
+#+END_SRC
+
+We expect that ULAN cultures will match a subset of AAT Periods and Styles, namely those corresponding to ethnic groups.
+We match ULAN against AAT cultures using the unix "join" program.
+- First may need to remove the header line from the two TSV files, else join will complain they are not sorted
+- On Windows (e.g. using Cygwin), convert the files to unix newlines: ~conv -U *.tsv~
+- We use the following command (making [[./ulan-aat.tsv]]. It includes a literal tab that can be typed in bash using the literal escape ~control-V~
+  : join -t "     " -j2 -o0,1.1,2.1,2.3 ulan.tsv aat-styles.tsv > ulan-aat.tsv
+- We also find the unmatched ULAN cultures ([[./ulan-not-aat.tsv]]) with this command:
+  : join -t "     " -j2 -v1 ulan.tsv aat-styles.tsv > ulan-not-aat.tsv
+
+This first cut matches 64% of the ULAN cultures against AAT:
+#+BEGIN_SRC 
+  1425 ulan-aat.tsv
+   793 ulan-not-aat.tsv
+  2218 ulan.tsv
+#+END_SRC
+There are various reasons for mismatches:
+- Some ULAN prefLabels are found only in AAT altLabel, eg AAT "Bulgar" vs ULAN "Ancient Bulgarian"
+- Sometimes the AAT prefLabel is a shorter variant of the ULAN prefLabel: eg AAT "Acoma" vs ULAN "Acoma Pueblo". The opposite also happens: ULAN "Adamawa" matches AAT "Adamawa Fulbe"
+- Many AAT labels include a qualifier that is not in the ULAN label, eg AAT "Abua (culture or style)"
+- Some AAT qialifiers are in ULAN in a shorter form, eg AAT "Aka (Mbuti style)" vs ULAN "Aka (Mbuti)" and AAT "Ambo (Southern Angolan and Northern Namibian style)" vs ULAN "Ambo (Southern African)"
+
+TODO: make more iterations to match all.
+
+*** Matching with SPARQL                                           :noexport:
+The SPARQL endpoint returns only partial results because the join query is slow.
+#+BEGIN_SRC 
+select distinct ?aat ?ulan ?lab {
+  ?ulan gvp:broaderExtended ulan:500125081; gvp:prefLabelGVP [gvp:term ?l].
+  bind(replace(?l,"unknown ","") as ?l2)
+  ?aat gvp:broaderExtended aat:300264088; xl:prefLabel|xl:altLabel [gvp:term ?l1].
+  bind(str(?l1) as ?lab)
+  filter(?lab=?l2)}
+#+END_SRC
+
+
+** British Museum Thesaurus
+
+Ontotext helped create the [[http://collection.britishmuseum.org][British Museum (BM) LOD]] in 2012-2013 as part of the [[http://www.researchspace.org][ResearchSpace project]].
+The BM LOD is hosted on Ontotext GraphDB (formerly OWLIM) and is modeled using CIDOC CRM and SKOS.
+See [[[RS-VRE]]] for a brief description of ResearchSpace and [[[CRM-Reasoning]]] for some volumetric info.
+A number of thesauri from the BM and Yale Center for British Art were integrated as part of the project and are described in the [[https://confluence.ontotext.com/display/ResearchSpace/Meta-Thesaurus%2Band%2BFR%2BNames#Meta-ThesaurusandFRNames-Metathesaurustable][ResearchSpace wiki]].
+These thesauri are available from the [[http://collection.britishmuseum.org/sparql][BM SPARQL Endpoint]], or as CSV files from a [[https://github.com/findsorguk/bmThesauri][github project of finds.org.uk]].
+
+We use the BM Ethnographic Group (or Ethnic Name) thesaurus http://collection.britishmuseum.org/id/thesauri/ethname.
+It includes 3351 ethnic groups.
+We prefer to get it from the SPARQL endpoint, in order to include all altLabels, scopeNote and parent ethnic group, which can be useful to disambiguate:
+#+BEGIN_SRC 
+select ?x ?pref (group_concat(?a; separator="; ") as ?alt) ?note ?parent {
+  ?x skos:inScheme thes:ethname; skos:prefLabel ?pref.
+  optional {?x skos:altLabel ?a}
+  optional {?x skos:scopeNote ?note}
+  optional {?x skos:broader ?parent}
+} group by ?x ?pref ?note ?parent
+#+END_SRC
+
+** DBpedia
+
+DBpedia extracts structured info from Wikipedia; we describe in the next section the info that we use.
+
+Quite often DBpedia includes separate entries for a people and their language. Then we correlate only the people.
+Sometimes there is no entry about the culture/style found at a particular archeological site (see sec [[*Getty AAT]] for different kinds of designations), 
+then we are happy to coreference the site or place name.
+
+We obtain culture info from DBpedia in two ways: from structured classes/properties, and from page titles.
+
+*** DBPedia Literals
+
+DBpedia includes  a few properties that can be used to find ethnic groups.
+- Some Places and Regions have property "ethnic group" (sometimes misspelt in singular) to designate the groups that live in that place.
+  These are represented in DBPedia as properties ~dbp:ethnicGroups|dbp:ethnicGroup~.
+- Some Languages have property "ethnicity" (represented as ~dbp:ethnicity~) to designate the ethnic groups speaking that language; some People have "ethnicity" to designate the ethnic group of the person.
+- Some languages have property "native speakers" (~dbp:speakers~). Unfortunately most values are free sentences, only a few are structured lists, so it's not useful
+  - A counter-example is the list of http://dbpedia.org/resource/Norman_language speakers: * Auregnais: 0 * Guernésiais: ~1,300 * Jèrriais: ~4,000 * Sercquiais: <20 in 1998 * Augeron: <100 * Cauchois: ~50,000 * Cotentinais: ~50,000
+- ~dbp:ethnicGroups~ is an infobox ("raw") property that is also mapped to ~dbo:ethnicGroup~ ("cooked") property.
+  But the latter is declared an ~owl:ObjectProperty~ so it misses literal values.
+
+We use the SPARQL endpoint of [[http://live.dbpedia.org/sparql][DBPedia Live]] instead of [[http://dbpedia.org/sparql][DBPedia]] because Live includes more data: it is updated continuously instead of biannually.
+Eg ~dbo:EthnicGroup~ (see below) has 4319 instances on DBpedia Live vs 4190 instances on DBpedia.
+DBpedia also includes some strange resources, eg http://dbpedia.org/resource/(Pakistani), which seem to be cleaned up in Wikipedia since the last extract to DBpedia.
+We need to specify the dbo and dbp prefixes (it's easiest to obtain them from the [[prefix.cc/dbp,dbo.sparql][prefix.cc]] service), since they are not present on DBpedia Live.
+
+We obtain the literals with this query:
+#+BEGIN_SRC 
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+select distinct ?e {
+  ?x dbp:ethnicGroups|dbp:ethnicGroup|dbp:ethnicity ?e
+  filter isLiteral(?e)}
+#+END_SRC
+We save to [[./dbp-ethnic-raw.txt]], which has 8859 lines.
+
+There is plenty of junk, eg:
+- strings with lang tag vs type xsd:string, eg
+  : "& Aboriginal"@en
+  : "& Aboriginal"^^<http://www.w3.org/2001/XMLSchema#string>
+- multiple values separated with "and", "or", and punctuation such as ,&*/()[]
+  : "African American, Hispanic, and White"@en
+  : "Ati, Aklanon, and Hiligaynon"@en
+  : "(Arab or Kurd or Persian)"@en
+  : "Baniya/ [Marwari]"@en
+  : "& Aboriginal"@en
+  : "* French Canadian * Italian"@en
+  : "Adan, Agotime"@en
+  : "Black / African-American"@en
+  : "Aboriginal Australian – Arrernte and Kalkadoon"@en
+- mixing demonym, demonym in plural, country name, and misspellings
+  : "Belarusians"@en
+  : "Belarussian"@en
+  : "Belgium"@en
+  : "Papuan and Austronesian"@en
+  : "Papuans and Austronesians"@en
+- bad extraction of superscript footnote marks as part of the text.
+  - Gibraltarian^{a}  ^{a.} Of mixed Genoese, Maltese, Portuguese and Spanish descent.
+  : Gibraltariana
+- synonymous ethnic designations
+  : "Bengali-British"@en
+  : "Bengali-English"@en
+- various percent and numeric expressions including digits, punctuation %.=</,~≈ "th"
+  : "African 82.5%, Mulatto 11.9%, East Indian 2.4%, White 1.0%, Other or unspecified 3.1%"@en
+  : "< 1,000"@en
+  : "< 20"@en
+  : "= Berber: 68% Black: 1% Other: 27%"@en
+  : "English, 1/16th French"@en
+- various numeric or uncertainty qualifiers, eg
+  : all
+  : almost completely
+  : disputed
+  : etc
+  : including
+  : less than
+  : non-
+  : other
+  : others?
+  : partially
+  : possibly
+  : predominantly
+  : several 
+  : some of the
+  : some
+  : though
+  : unclear
+  : undetermined
+  : unidentified 
+  : unknown
+  : unspecified
+  : various
+- various word qualifiers that can be ignored, eg
+  : castes
+  : descendants
+  : descended from various ethnic groups
+  : descent
+  : ethnicities
+  : father
+  : indigenous 
+  : mother
+  : native    # singificant in Native American
+  : originally
+  : parents
+  : people
+  : tribe
+- various pseudo-ethnicities from games, fiction and parody, eg
+  : "Demons"@en
+  : "Dog"@en
+  : "wild boar"@en
+  : "Dwarves"@en
+  : "Grolandais"@en
+- numerous expressions that don't designate an ethnicity, eg
+  : "Deaf populations"@en
+  : "-uninhabited-"@en
+  : "(Figures for Shropshire UA:)"@en
+  : "???"@en
+  : self-identified
+  : "Albanian Mother Teresa said "By blood, I am Albanian. By citizenship, an Indian.""@en
+  : "Belonged to an ‘outcaste’ community of tanners , subscribed to Sikhism, converted to Islam later under the name Muhammad Bushra"@en
+  : "Chinese. In Spanish: "Chino Alcahuete""@en
+  : ref|The progenitor of the Stuarts was Walter fitz Alan, a Normanised Breton.|group=note
+  : other, non-official, scholarly estimates are
+  : spoken by ... of the population
+  : spoken by ...
+  : Significant migrant groups include
+  : tribal council member
+  : First Nation territory
+- date values like xsd:gMonthDay
+  : "--08-16+02:00"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+- URLs
+  : http://web.archive.org/web/20060615093455/www.4dw.net/royalark/Turkey/turkey4.htm
+
+We wrote a perl script [[./dbp-ethnLit.pl]] that salvages the junk and produces [[./dbp-ethnLit.txt]]:
+: perl dbp-ethnLit.pl dbp-ethnLit-raw.txt | sort | uniq > dbp-ethnLit.txt
+It splits nationalities into separate lines, removes various noise words, and tries to convert plural->singular (for easier comparison to DBpedia objects, see next).
+It produces 1335 values, but many of them are combination nationalities (eg American Chinese) that may not constitute separate cultures.
+
+*** DBPedia Objects by Class/Property
+
+The "Infobox Ethnic group" template is mapped to class ~dbo:EthnicGroup~.
+We combine it with 
+
+#+BEGIN_SRC 
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+select distinct ?e {
+  {?e a dbo:EthnicGroup} union
+  {?x dbp:ethnicGroups|dbp:ethnicGroup|dbp:ethnicity ?e}}
+#+END_SRC
+
+We have the following special cases TODO
+- URL encoding http://dbpedia.org/resource/Gi%C3%A1y_people
+
+We process this file with a Perl script TODO and make TODO unique values. 
+
+*** DBPedia Objects by Title
+
+Not all Wikipedia pages about ethnic groups use the corresponding template, therefore not all have the ~dbo:EthnicGroup~ class.
+So we also search by title (DBpedia resource URL) ending in ~peoples?|tribes?|cultures?~ (~?~ indicates an optional char, i.e. singular or plural variant).
+We can find many instances of such pages with a query like the following.
+The two last filters look for pages that don't have the corresponding class, nor redirect to a page of that class.
+#+BEGIN_SRC 
+prefix dbp: <http://dbpedia.org/property/>
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+select * {
+  ?x foaf:isPrimaryTopicOf []; rdfs:label ?y.
+  filter (regex(?y," (peoples?|tribes?|cultures?)$"))
+  filter (!regex(?y,"List of|Category:|Template:| in |named after"))
+  filter not exists {?x a dbo:EthnicGroup}
+  filter not exists {?x dbo:wikiPageRedirects [a dbo:EthnicGroup]}
+}
+#+END_SRC
+Eg the following are such pages:
+- http://dbpedia.org/resource/Bambara_people  
+- http://dbpedia.org/resource/Bemba_people    
+
+However, the above negated ~!regex()~ doesn't work in live.dbpedia.org and it would be too onerous to manage all exceptions in a SPARQL query.
+So we prefer to filter a full list of Wikipedia pages using unix tools.
+We use a full list of Wikidata IDs and Wikipedia pages obtained on 2015-08-05.
+We wrote a perl script [[./dbp-ethTitle.pl]] that has 85 exclusion patterns and makes [[./dbp-ethTitle.txt]] having 3013 cultures/peoples.
+: perl dbp-ethTitle.pl ../wikidata/WDid-WD.ttl | sort > dbp-ethTitle.txt
+
+*** Merging DBpedia 
+TODO
+
+DBpedia URLs are marked with a *.
+
+*** Wikipedia Lists and NavBoxes
+Despite our best efforts in using 3 approaches for getting ethnic group data from DBPedia/Wikipedia, this still doesn't catch all ethnicities on Wikipedia
+Eg https://en.wikipedia.org/wiki/Vandals neither uses the Ethnic group infobox, is not target of "ethnicity" or "ethnic groups", does not end in "people", nor has such redirect.
+
+TODO
+
+* References
+1. <<CRM-Reasoning>>Vladimir Alexiev, Dimitar Manov, Jana Parvanova, and Svetoslav Petrov. Large-scale Reasoning with a Complex Cultural Heritage Ontology (CIDOC CRM). In Workshop Practical Experiences with CIDOC CRM and its Extensions (CRMEX 2013) at TPDL 2013, Valetta, Malta, September 2013. [[http://vladimiralexiev.github.io/pubs/Alexiev2013-CRM-reasoning.pdf][Paper]], [[http://vladimiralexiev.github.io/pubs/Alexiev2013-CRM-reasoning-slides.ppt][Presentation]]
+2. <<RS-VRE>>Vladimir Alexiev. ResearchSpace as an Example of a VRE Based on CIDOC CRM. In Virtual Center for Medieval Studies (Medioevo Europeo VCMS) Workshop, Bucharest, Romania, April 2013. [[http://www.slideshare.net/valexiev1/research-space-vre-based-on-cidoc-crm][Presentation]]
